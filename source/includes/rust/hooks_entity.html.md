@@ -82,58 +82,6 @@ bool CanHelicopterUseNapalm(PatrolHelicopterAI heli)
  * Called when a patrol helicopter attempts to use napalm
  * Returning true or false overrides default behavior
 
-## CanLootEntity (LootableCorpse)
-
-``` csharp
-object CanLootEntity(LootableCorpse corpse, BasePlayer player)
-{
-    Puts("CanLootEntity works!");
-    return null;
-}
-```
-
- * Called when the player starts looting a LootableCorpse entity
-* Returning a non-null value overrides default behavior
-
-## CanLootEntity (ResourceContainer)
-
-``` csharp
-object CanLootEntity(ResourceContainer container, BasePlayer player)
-{
-    Puts("CanLootEntity works!");
-    return null;
-}
-```
-
- * Called when the player starts looting a ResourceContainer entity
-* Returning a non-null value overrides default behavior
-
-## CanLootEntity (DroppedItemContainer)
-
-``` csharp
-object CanLootEntity(DroppedItemContainer container, BasePlayer player)
-{
-    Puts("CanLootEntity works!");
-    return null;
-}
-```
-
- * Called when the player starts looting a DroppedItemContainer entity
-* Returning a non-null value overrides default behavior
-
-## CanLootEntity (StorageContainer)
-
-``` csharp
-object CanLootEntity(StorageContainer container, BasePlayer player)
-{
-    Puts("CanLootEntity works!");
-    return null;
-}
-```
-
- * Called when the player starts looting a StorageContainer entity
-* Returning a non-null value overrides default behavior
-
 ## CanNetworkTo
 
 ``` csharp

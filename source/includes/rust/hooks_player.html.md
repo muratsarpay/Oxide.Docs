@@ -99,7 +99,7 @@ bool CanDropActiveItem(BasePlayer player)
 ## CanDismountEntity
 
 ``` csharp
-object CanDismountEntity(BaseMountable entity, BasePlayer player)
+object CanDismountEntity(BasePlayer player, BaseMountable entity)
 {
     Puts("CanDismountEntity works!");
     return null;
@@ -148,10 +148,10 @@ object CanHackCrate(BasePlayer player, HackableLockedCrate crate)
  * Called when the player attempts to hack a locked crate from the CH47 (Chinook)
  * Returning a non-null value overrides default behavior
 
-## CanLootPlayer
+## CanLootPlayer (BasePlayer)
 
 ``` csharp
-bool CanLootPlayer(BasePlayer target, BasePlayer looter)
+bool CanLootPlayer(BasePlayer looter, BasePlayer target)
 {
     Puts("CanLootPlayer works!");
     return true;
@@ -161,10 +161,62 @@ bool CanLootPlayer(BasePlayer target, BasePlayer looter)
  * Called when the player attempts to loot another player
  * Returning true or false overrides default behavior
 
+## CanLootEntity (DroppedItemContainer)
+
+``` csharp
+object CanLootEntity(BasePlayer player, DroppedItemContainer container)
+{
+    Puts("CanLootEntity works!");
+    return null;
+}
+```
+
+ * Called when the player starts looting a DroppedItemContainer entity
+* Returning a non-null value overrides default behavior
+
+## CanLootEntity (LootableCorpse)
+
+``` csharp
+object CanLootEntity(BasePlayer player, LootableCorpse corpse)
+{
+    Puts("CanLootEntity works!");
+    return null;
+}
+```
+
+ * Called when the player starts looting a LootableCorpse entity
+* Returning a non-null value overrides default behavior
+
+## CanLootEntity (ResourceContainer)
+
+``` csharp
+object CanLootEntity(BasePlayer player, ResourceContainer container)
+{
+    Puts("CanLootEntity works!");
+    return null;
+}
+```
+
+ * Called when the player starts looting a ResourceContainer entity
+* Returning a non-null value overrides default behavior
+
+## CanLootEntity (StorageContainer)
+
+``` csharp
+object CanLootEntity(BasePlayer player, StorageContainer container)
+{
+    Puts("CanLootEntity works!");
+    return null;
+}
+```
+
+ * Called when the player starts looting a StorageContainer entity
+* Returning a non-null value overrides default behavior
+
 ## CanMountEntity
 
 ``` csharp
-object CanMountEntity(BaseMountable entity, BasePlayer player)
+object CanMountEntity(BasePlayer player, BaseMountable entity)
 {
     Puts("CanMountEntity works!");
     return null;
@@ -174,12 +226,12 @@ object CanMountEntity(BaseMountable entity, BasePlayer player)
  * Called when the player attempts to mount an entity
  * Returning a non-null value overrides default behavior
 
-## CanPlayerUI
+## CanUseUI
 
 ``` csharp
-object CanPlayerUI(BasePlayer player, string json)
+object CanUseUI(BasePlayer player, string json)
 {
-    Puts("CanPlayerUI works!");
+    Puts("CanUseUI works!");
     return null;
 }
 ```
@@ -190,7 +242,7 @@ object CanPlayerUI(BasePlayer player, string json)
 ## CanRenameBed
 
 ``` csharp
-object CanRenameBed(SleepingBag bed, BasePlayer player, string bedName)
+object CanRenameBed(BasePlayer player, SleepingBag bed, string bedName)
     Puts("CanRenameBed works!");
     return null;
 }
@@ -202,7 +254,7 @@ object CanRenameBed(SleepingBag bed, BasePlayer player, string bedName)
 ## CanResearchItem
 
 ``` csharp
-object CanResearchItem(Item targetItem, BasePlayer player){
+object CanResearchItem(BasePlayer player, Item targetItem){
     Puts("CanResearchItem works!");
     return null;
 }
@@ -247,6 +299,18 @@ void OnClientAuth(Connection connection)
 ```
 
  * Called when the player is giving server connection authorization information
+ * No return behavior
+
+## OnDestroyUI
+
+``` csharp
+void OnDestroyUI(BasePlayer player, string json)
+{
+    Puts("OnDestroyUI works!");
+}
+```
+
+ * Called when a custom UI is destroyed for the player
  * No return behavior
 
 ## OnFindSpawnPoint
@@ -370,18 +434,6 @@ void OnPlayerConnected(Network.Message packet)
 
  * Called before the player object is created, but after the player has been approved to join the game
  * Can get the connection from packet.connection
- * No return behavior
-
-## OnPlayerDestroyUI
-
-``` csharp
-void OnPlayerDestroyUI(BasePlayer player, string json)
-{
-    Puts("OnPlayerDestroyUI works!");
-}
-```
-
- * Called when the player closes/destroys a custom UI
  * No return behavior
 
 ## OnPlayerDie
