@@ -6,398 +6,402 @@ title: Item List
 
 | Item Id       | Item Name                    | Item Shortname           |
 |---------------|------------------------------|--------------------------|
-| 2115555558    | Handmade Shell               | ammo.handmade.shell      |
-| 590532217     | Nailgun Nails                | ammo.nailgun.nails       |
-| -533875561    | Pistol Bullet                | ammo.pistol              |
-| 1621541165    | Incendiary Pistol Bullet     | ammo.pistol.fire         |
-| -422893115    | HV Pistol Ammo               | ammo.pistol.hv           |
-| 815896488     | 5.56 Rifle Ammo              | ammo.rifle               |
-| 805088543     | Explosive 5.56 Rifle Ammo    | ammo.rifle.explosive     |
-| 1152393492    | HV 5.56 Rifle Ammo           | ammo.rifle.hv            |
-| 449771810     | Incendiary 5.56 Rifle Ammo   | ammo.rifle.incendiary    |
-| 1578894260    | Rocket                       | ammo.rocket.basic        |
-| 1436532208    | Incendiary Rocket            | ammo.rocket.fire         |
-| 542276424     | High Velocity Rocket         | ammo.rocket.hv           |
-| 1594947829    | Smoke Rocket WIP!!!!         | ammo.rocket.smoke        |
-| -1035059994   | 12 Gauge Buckshot            | ammo.shotgun             |
-| 1818890814    | 12 Gauge Incendiary Shell    | ammo.shotgun.fire        |
-| 1819281075    | 12 Gauge Slug                | ammo.shotgun.slug        |
-| 1685058759    | Anti-Radiation Pills         | antiradpills             |
-| 93029210      | Apple                        | apple                    |
-| -1565095136   | Rotten Apple                 | apple.spoiled            |
-| -1775362679   | Bone Arrow                   | arrow.bone               |
-| -1775249157   | Fire Arrow                   | arrow.fire               |
-| -1280058093   | High Velocity Arrow          | arrow.hv                 |
-| -420273765    | Wooden Arrow                 | arrow.wooden             |
-| -148163128    | Hide Boots                   | attire.hide.boots        |
-| 936777834     | Hide Halterneck              | attire.hide.helterneck   |
-| -135651869    | Hide Pants                   | attire.hide.pants        |
-| 102672084     | Hide Poncho                  | attire.hide.poncho       |
-| -132588262    | Hide Skirt                   | attire.hide.skirt        |
-| -1666761111   | Hide Vest                    | attire.hide.vest         |
-| -966287254    | Reindeer Antlers             | attire.reindeer.headband |
-| 563023711     | Auto Turret                  | autoturret               |
-| 790921853     | Salvaged Axe                 | axe.salvaged             |
-| -337261910    | Bandage                      | bandage                  |
-| 498312426     | Concrete Barricade           | barricade.concrete       |
-| 504904386     | Metal Barricade              | barricade.metal          |
-| -1221200300   | Sandbag Barricade            | barricade.sandbags       |
-| 510887968     | Stone Barricade              | barricade.stone          |
-| -814689390    | Wooden Barricade             | barricade.wood           |
-| 1024486167    | Barbed Wooden Barricade      | barricade.woodwire       |
-| 2021568998    | Battery - Small              | battery.small            |
-| 97329         | Barbeque                     | bbq                      |
-| 1325935999    | Raw Bear Meat                | bearmeat                 |
-| -2066726403   | Burnt Bear Meat              | bearmeat.burned          |
-| -2043730634   |  Cooked Bear Meat            | bearmeat.cooked          |
-| 97409         | Bed                          | bed                      |
-| 1611480185    | Black Raspberries            | black.raspberries        |
-| -1386464949   | Bleach                       | bleach                   |
-| 93832698      | Blood                        | blood                    |
-| -1063412582   | Blueberries                  | blueberries              |
-| -1887162396   | Blueprint                    | blueprintbase            |
-| 569119686     | Bone Armor                   | bone.armor.suit          |
-| 919780768     | Bone Club                    | bone.club                |
-| -365801095    | Bone Fragments               | bone.fragments           |
-| -1749787215   | Frog Boots                   | boots.frog               |
-| 68998734      | Bota Bag                     | botabag                  |
-| -853695669    | Hunting Bow                  | bow.hunting              |
-| -1026117678   | Repair Bench                 | box.repair.bench         |
-| -770311783    | Wood Storage Box             | box.wooden               |
-| 271534758     | Large Wood Box               | box.wooden.large         |
-| 1260209393    | Bucket Helmet                | bucket.helmet            |
-| -1192532973   | Water Bucket                 | bucket.water             |
-| -307490664    | Building Plan                | building.planner         |
-| 115739308     | Leather Gloves               | burlap.gloves            |
-| -1035315940   | Burlap Headwrap              | burlap.headwrap          |
-| 707427396     | Burlap Shirt                 | burlap.shirt             |
-| 707432758     | Burlap Shoes                 | burlap.shoes             |
-| 1767561705    | Burlap Trousers              | burlap.trousers          |
-| -2079677721   | Cactus Flesh                 | cactusflesh              |
-| -139769801    | Camp Fire                    | campfire                 |
-| -1043746011   | Can of Beans                 | can.beans                |
-| 2080339268    | Empty Can Of Beans           | can.beans.empty          |
-| -171664558    | Can of Tuna                  | can.tuna                 |
-| 1050986417    | Empty Tuna Can               | can.tuna.empty           |
-| 523409530     | Candy Cane                   | candycane                |
-| -1693683664   | Candy Cane Club              | candycaneclub            |
-| 1300054961    | CCTV Camera                  | cctv.camera              |
-| -2095387015   | Ceiling Light                | ceilinglight             |
-| 1428021640    | Chainsaw                     | chainsaw                 |
-| 94623429      | Chair                        | chair                    |
-| 1436001773    | Charcoal                     | charcoal                 |
-| 1711323399    | Burnt Chicken                | chicken.burned           |
-| 1734319168    | Cooked Chicken               | chicken.cooked           |
-| -1658459025   | Raw Chicken Breast           | chicken.raw              |
-| -726947205    | Spoiled Chicken              | chicken.spoiled          |
-| -341443994    | Chocolate Bar                | chocholate               |
-| 2045107609    | Corn Clone                   | clone.corn               |
-| 2045246801    | Hemp Clone                   | clone.hemp               |
-| 509654999     | Pumpkin Plant Clone          | clone.pumpkin            |
-| 94756378      | Cloth                        | cloth                    |
-| 3059095       | Coal :(                      | coal                     |
-| -2128719593   | Coffee Can Helmet            | coffeecan.helmet         |
-| 3059624       | Corn                         | corn                     |
-| 2123300234    | Crossbow                     | crossbow                 |
-| 1983936587    | Crude Oil                    | crude.oil                |
-| 1257201758    | Tool Cupboard                | cupboard.tool            |
-| -1178289187   | Bone Helmet                  | deer.skull.mask          |
-| -225234813    | Burnt Deer Meat              | deermeat.burned          |
-| -202239044    | Cooked Deer Meat             | deermeat.cooked          |
-| -322501005    | Raw Deer Meat                | deermeat.raw             |
-| -1144743963   | Diving Fins                  | diving.fins              |
-| -1144542967   | Diving Mask                  | diving.mask              |
-| -1144334585   | Diving Tank                  | diving.tank              |
-| 1066729526    | Wetsuit                      | diving.wetsuit           |
-| -778796102    | Door Closer                  | door.closer              |
-| -1598790097   | Sheet Metal Double Door      | door.double.hinged.metal |
-| -933236257    | Armored Double Door          | door.double.hinged.toptier|
-| -1575287163   | Wood Double Door             | door.double.hinged.wood  |
-| -2104481870   | Sheet Metal Door             | door.hinged.metal        |
-| -1571725662   | Armored Door                 | door.hinged.toptier      |
-| 1456441506    | Wooden Door                  | door.hinged.wood         |
-| 1200628767    | Door Key                     | door.key                 |
-| 1925723260    | Drop Box                     | dropbox                  |
-| 1891056868    | Duct Tape                    | ducttape                 |
-| 1295154089    | Satchel Charge               | explosive.satchel        |
-| 498591726     | Timed Explosive Charge       | explosive.timed          |
-| 1755466030    | Explosives                   | explosives               |
-| 726730162     | m-facialhair01               | facialhair.style01       |
-| -1034048911   | Animal Fat                   | fat.animal               |
-| 305916740     | f-hairstyle-1                | female_hairstyle_01      |
-| 305916741     | f-hairstyle-2                | female_hairstyle_02      |
-| 305916742     | f-hairstyle-3                | female_hairstyle_03      |
-| 305916744     | f-hairstyle-5                | female_hairstyle_05      |
-| 252529905     | f-armpit01                   | femalearmpithair.style01 |
-| 471582113     | f-eyebrow01                  | femaleeyebrow.style01    |
-| -1138648591   | f-pubic01                    | femalepubichair.style01  |
-| 1908328648    | Stone Fireplace              | fireplace.stone          |
-| -2078972355   | Cooked Fish                  | fish.cooked              |
-| 88869913      | Minnows                      | fish.minnows             |
-| -533484654    | Raw Fish                     | fish.raw                 |
-| 865679437     | Small Trout                  | fish.troutsmall          |
-| 1571660245    | Handmade Fishing Rod         | fishingrod.handmade      |
-| 1369769822    | Survival Fish Trap           | fishtrap.small           |
-| 1045869440    | Flame Thrower                | flamethrower             |
-| 1985408483    | Flame Turret                 | flameturret              |
-| 97513422      | Flare                        | flare                    |
-| 1496470781    | Flashlight                   | flashlight.held          |
-| -1722829188   | Floor grill                  | floor.grill              |
-| 1849912854    | Ladder Hatch                 | floor.ladder.hatch       |
-| -1266285051   | Fridge                       | fridge                   |
-| -217113639    | Acoustic Guitar              | fun.guitar               |
-| -505639592    | Furnace                      | furnace                  |
-| 1598149413    | Large Furnace                | furnace.large            |
-| -1779401418   | High External Stone Gate     | gates.external.high.stone|
-| -57285700     | High External Wooden Gate    | gates.external.high.wood |
-| 98228420      | Gears                        | gears                    |
-| 1422845239    | Geiger Counter               | geiger.counter           |
-| 277631078     | Wind Turbine                 | generator.wind.scrap     |
-| -522149009    | Glowing Eyes                 | gloweyes                 |
-| 3175989       | Glue                         | glue                     |
-| 718197703     | Granola Bar                  | granolabar               |
-| 384204160     | Beancan Grenade              | grenade.beancan          |
-| -1308622549   | F1 Grenade                   | grenade.f1               |
-| -1580059655   | Gun Powder                   | gunpowder                |
-| 378365037     | Shotgun Trap                 | guntrap                  |
-| -1224598842   | Hammer                       | hammer                   |
-| -1976561211   | Salvaged Hammer              | hammer.salvaged          |
-| -1406876421   | Beenie Hat                   | hat.beenie               |
-| -1397343301   | Boonie Hat                   | hat.boonie               |
-| -1381682752   | Candle Hat                   | hat.candle               |
-| 696727039     | Baseball Cap                 | hat.cap                  |
-| -450738836    | Miners Hat                   | hat.miner                |
-| 124310981     | Wolf Headdress               | hat.wolf                 |
-| 698310895     | Hatchet                      | hatchet                  |
-| 523855532     | Hazmat Suit                  | hazmatsuit               |
-| 670655301     | Scientist Suit               | hazmatsuit_scientist     |
-| 1148128486    | Scientist Suit               | hazmatsuit_scientist_peacekeeper|
-| 1351172108    | Heavy Plate Helmet           | heavy.plate.helmet       |
-| 1404466285    | Heavy Plate Jacket           | heavy.plate.jacket       |
-| -1334615971   | Heavy Plate Pants            | heavy.plate.pants        |
-| -1211618504   | Hoodie                       | hoodie                   |
-| -1851058636   | Burnt Horse Meat             | horsemeat.burned         |
-| -1828062867   | Cooked Horse Meat            | horsemeat.cooked         |
-| -1966381470   | Raw Horse Meat               | horsemeat.raw            |
-| 2133577942    | High Quality Metal Ore       | hq.metal.ore             |
-| -1014825244   | Burnt Human Meat             | humanmeat.burned         |
-| -991829475    | Cooked Human Meat            | humanmeat.cooked         |
-| -642008142    | Raw Human Meat               | humanmeat.raw            |
-| 661790782     | Spoiled Human Meat           | humanmeat.spoiled        |
-| -1440143841   | Salvaged Icepick             | icepick.salvaged         |
-| -1167640370   | Jacket                       | jacket                   |
-| -1616887133   | Snow Jacket - Red            | jacket.snow              |
-| -1284735799   | Jack O Lantern Angry         | jackolantern.angry       |
-| -1278649848   | Jack O Lantern Happy         | jackolantern.happy       |
-| -586116979    | Pickles                      | jar.pickle               |
-| 776005741     | Bone Knife                   | knife.bone               |
-| 108061910     | Wooden Ladder                | ladder.wooden.wall       |
-| -51678842     | Lantern                      | lantern                  |
-| -789202811    | Large Medkit                 | largemedkit              |
-| 50834473      | Leather                      | leather                  |
-| 193190034     | M249                         | lmg.m249                 |
-| -975723312    | Code Lock                    | lock.code                |
-| 1908195100    | Key Lock                     | lock.key                 |
-| -1097452776   | Locker                       | locker                   |
-| 146685185     | Longsword                    | longsword                |
-| 28178745      | Low Grade Fuel               | lowgradefuel             |
-| 3343606       | Mace                         | mace                     |
-| 825308669     | Machete                      | machete                  |
-| 830965940     | Mail Box                     | mailbox                  |
-| 1662628660    | m-facialhair02               | male.facialhair.style02  |
-| 1662628661    | m-facialhair03               | male.facialhair.style03  |
-| 1662628662    | m-facialhair04               | male.facialhair.style04  |
-| -1832205789   | m-hairstyle-1                | male_hairstyle_01        |
-| -1832205788   | m-hairstyle-2                | male_hairstyle_02        |
-| -1832205787   | m-hairstyle-3                | male_hairstyle_03        |
-| -1832205786   | m-hairstyle-4                | male_hairstyle_04        |
-| -1832205785   | m-hairstyle-5                | male_hairstyle_05        |
-| 1625090418    | m-armpit01                   | malearmpithair.style01   |
-| -1269800768   | m-eyebrow01                  | maleeyebrow.style01      |
-| 429648208     | m-pubic01                    | malepubichair.style01    |
-| 107868        | Paper Map                    | map                      |
-| 997973965     | Improvised Balaclava         | mask.balaclava           |
-| -46188931     | Bandana Mask                 | mask.bandana             |
-| -253819519    | Raw Pork                     | meat.boar                |
-| 968732481     | Burnt Pork                   | meat.pork.burned         |
-| 991728250     | Cooked Pork                  | meat.pork.cooked         |
-| -46848560     | Metal Facemask               | metal.facemask           |
-| 688032252     | Metal Fragments              | metal.fragments          |
-| -1059362949   | Metal Ore                    | metal.ore                |
-| 1265861812    | Metal Chest Plate            | metal.plate.torso        |
-| 374890416     | High Quality Metal           | metal.refined            |
-| 1567404401    | Metal Blade                  | metalblade               |
-| -1057402571   | Metal Pipe                   | metalpipe                |
-| 1835797460    | Metal Spring                 | metalspring              |
-| -758925787    | Pump Jack                    | mining.pumpjack          |
-| -1411620422   | Mining Quarry                | mining.quarry            |
-| 843418712     | Mushroom                     | mushroom                 |
-| 3387378       | Note                         | note                     |
-| 106433500     | Pants                        | pants                    |
-| -459156023    | Shorts                       | pants.shorts             |
-| 106434956     | Paper                        | paper                    |
-| -578028723    | Pickaxe                      | pickaxe                  |
-| -1379225193   | Eoka Pistol                  | pistol.eoka              |
-| 371156815     | M92 Pistol                   | pistol.m92               |
-| 449769971     | Nailgun                      | pistol.nailgun           |
-| 2033918259    | Python Revolver              | pistol.python            |
-| -930579334    | Revolver                     | pistol.revolver          |
-| 548699316     | Semi-Automatic Pistol        | pistol.semiauto          |
-| 142147109     | Large Planter Box            | planter.large            |
-| 148953073     | Small Planter Box            | planter.small            |
-| 640562379     | Pookie Bear                  | pookie.bear              |
-| 1974032895    | Empty Propane Tank           | propanetank              |
-| -225085592    | Pumpkin                      | pumpkin                  |
-| 1987447227    | Research Table               | research.table           |
-| 540154065     | Research Paper               | researchpaper            |
-| -1461508848   | Assault Rifle                | rifle.ak                 |
-| -55660037     | Bolt Action Rifle            | rifle.bolt               |
-| -1716193401   | LR-300 Assault Rifle         | rifle.lr300              |
-| -1745053053   | Semi-Automatic Rifle         | rifle.semiauto           |
-| 1939428458    | Rifle Body                   | riflebody                |
-| 340009023     | Riot Helmet                  | riot.helmet              |
-| -288010497    | Road Sign Jacket             | roadsign.jacket          |
-| -1595790889   | Road Sign Kilt               | roadsign.kilt            |
-| -847065290    | Road Signs                   | roadsigns                |
-| 3506021       | Rock                         | rock                     |
-| 649603450     | Rocket Launcher              | rocket.launcher          |
-| 3506418       | Rope                         | rope                     |
-| 113284        | Rug                          | rug                      |
-| 569935070     | Rug Bear Skin                | rug.bear                 |
-| -1775234707   | Salvaged Cleaver             | salvaged.cleaver         |
-| -388967316    | Salvaged Sword               | salvaged.sword           |
-| 2007564590    | Santa Hat                    | santahat                 |
-| -1705696613   | Scarecrow                    | scarecrow                |
-| 109266897     | Scrap                        | scrap                    |
-| -527558546    | Search Light                 | searchlight              |
-| 583366917     | Corn Seed                    | seed.corn                |
-| 583506109     | Hemp Seed                    | seed.hemp                |
-| 466113771     | Pumpkin Seed                 | seed.pumpkin             |
-| 1223860752    | Semi Automatic Body          | semibody                 |
-| -419069863    | Sewing Kit                   | sewingkit                |
-| -1617374968   | Sheet Metal                  | sheetmetal               |
-| 2057749608    | Salvaged Shelves             | shelves                  |
-| 24576628      | Shirt                        | shirt.collared           |
-| -1659202509   | Tank Top                     | shirt.tanktop            |
-| 2107229499    | Boots                        | shoes.boots              |
-| 191795897     | Double Barrel Shotgun        | shotgun.double           |
-| -1009492144   | Pump Shotgun                 | shotgun.pump             |
-| 621575320     | Spas-12 Shotgun              | shotgun.spas12           |
-| 2077983581    | Waterpipe Shotgun            | shotgun.waterpipe        |
-| -529054135    | Metal horizontal embrasure   | shutter.metal.embrasure.a|
-| -529054134    | Metal Vertical embrasure     | shutter.metal.embrasure.b|
-| 486166145     | Wood Shutters                | shutter.wood.a           |
-| 1498516223    | Two Sided Hanging Sign       | sign.hanging             |
-| 1628490888    | Large Banner Hanging         | sign.hanging.banner.large|
-| -632459882    | Two Sided Ornate Hanging Sign| sign.hanging.ornate      |
-| -626812403    | Landscape Picture Frame      | sign.pictureframe.landscape|
-| 385802761     | Portrait Picture Frame       | sign.pictureframe.portrait|
-| 2117976603    | Tall Picture Frame           | sign.pictureframe.tall   |
-| 1338515426    | XL Picture Frame             | sign.pictureframe.xl     |
-| -1455694274   | XXL Picture Frame            | sign.pictureframe.xxl    |
-| 1579245182    | Large Banner on pole         | sign.pole.banner.large   |
-| -587434450    | Double Sign Post             | sign.post.double         |
-| -163742043    | Single Sign Post             | sign.post.single         |
-| -1224714193   | One Sided Town Sign Post     | sign.post.town           |
-| 644359987     | Two Sided Town Sign Post     | sign.post.town.roof      |
-| -1962514734   | Huge Wooden Sign             | sign.wooden.huge         |
-| -705305612    | Large Wooden Sign            | sign.wooden.large        |
-| -357728804    | Wooden Sign                  | sign.wooden.medium       |
-| -698499648    | Small Wooden Sign            | sign.wooden.small        |
-| 960793436     | Human Skull                  | skull.human              |
-| 1001265731    | Wolf Skull                   | skull.wolf               |
-| 1859976884    | Skull Fire Pit               | skull_fire_pit           |
-| 1253290621    | Sleeping Bag                 | sleepingbag              |
-| 470729623     | Small Oil Refinery           | small.oil.refinery       |
-| 927253046     | Small Water Bottle           | smallwaterbottle         |
-| 109552593     | Custom SMG                   | smg.2                    |
-| -2094080303   | MP5A4                        | smg.mp5                  |
-| 456448245     | Thompson                     | smg.thompson             |
-| -2092529553   | SMG Body                     | smgbody                  |
-| 691633666     | Snowball                     | snowball                 |
-| -2055888649   | Snowman                      | snowman                  |
-| -2118132208   | Stone Spear                  | spear.stone              |
-| -1127699509   | Wooden Spear                 | spear.wooden             |
-| -685265909    | Wooden Floor Spikes          | spikes.floor             |
-| 552706886     | Spinning wheel               | spinner.wheel            |
-| 1051155022    | Small Stash                  | stash.small              |
-| -892259869    | Sticks                       | sticks                   |
-| -1623330855   | SUPER Stocking               | stocking.large           |
-| -1616524891   | Small Stocking               | stocking.small           |
-| 789892804     | Stone Pickaxe                | stone.pickaxe            |
-| -1289478934   | Stone Hatchet                | stonehatchet             |
-| -892070738    | Stones                       | stones                   |
-| -891243783    | Sulfur                       | sulfur                   |
-| 889398893     | Sulfur Ore                   | sulfur.ore               |
-| -1625468793   | Supply Signal                | supply.signal            |
-| 1293049486    | Survey Charge                | surveycharge             |
-| 586484018     | Medical Syringe              | syringe.medical          |
-| 110115790     | Table                        | table                    |
-| 2069925558    | Reactive Target              | target.reactive          |
-| 1490499512    | Targeting Computer           | targeting.computer       |
-| 3552619       | Tarp                         | tarp                     |
-| 1471284746    | Tech Trash                   | techparts                |
-| -1480119738   | Binoculars                   | tool.binoculars          |
-| -1342405573   | Camera                       | tool.camera              |
-| 110547964     | Torch                        | torch                    |
-| 1046072789    | Snap Trap                    | trap.bear                |
-| 255101535     | Land Mine                    | trap.landmine            |
-| -864578046    | T-Shirt                      | tshirt                   |
-| 1660607208    | Longsleeve T-Shirt           | tshirt.long              |
-| 260214178     | Tuna Can Lamp                | tunalight                |
-| -1847536522   | Vending Machine              | vending.machine          |
-| -1792066367   | High External Wooden Wall    | wall.external.high       |
-| -496055048    | High External Stone Wall     | wall.external.high.stone |
-| -427925529    | Prison Cell Wall             | wall.frame.cell          |
-| 562888306     | Prison Cell Gate             | wall.frame.cell.gate     |
-| -378017204    | Chainlink Fence              | wall.frame.fence         |
-| 995306285     | Chainlink Fence Gate         | wall.frame.fence.gate    |
-| 447918618     | Garage Door                  | wall.frame.garagedoor    |
-| 313836902     | Netting                      | wall.frame.netting       |
-| 1175970190    | Shop Front                   | wall.frame.shopfront     |
-| 525244071     | Metal Shop Front             | wall.frame.shopfront.metal|
-| -1021702157   | Metal Window Bars            | wall.window.bars.metal   |
-| -402507101    | Reinforced Window Bars       | wall.window.bars.toptier |
-| -1556671423   | Wooden Window Bars           | wall.window.bars.wood    |
-| 61936445      | Reinforced Glass Window      | wall.window.glass.reinforced|
-| 112903447     | Water                        | water                    |
-| -1628526499   | Water Barrel                 | water.barrel             |
-| 1817873886    | Large Water Catcher          | water.catcher.large      |
-| 1824679850    | Small Water Catcher          | water.catcher.small      |
-| 1840561315    | Water Purifier               | water.purifier           |
-| 1916127949    | Salt Water                   | water.salt               |
-| 547302405     | Water Jug                    | waterjug                 |
-| 1229879204    | Weapon flashlight            | weapon.mod.flashlight    |
-| -465236267    | Holosight                    | weapon.mod.holosight     |
-| 516382256     | Weapon Lasersight            | weapon.mod.lasersight    |
-| -1569356508   | Muzzle Boost                 | weapon.mod.muzzleboost   |
-| -1569280852   | Muzzle Brake                 | weapon.mod.muzzlebrake   |
-| 1213686767    | Silencer                     | weapon.mod.silencer      |
-| 386382445     | Simple Handmade Sight        | weapon.mod.simplesight   |
-| -141135377    | 4x Zoom Scope                | weapon.mod.small.scope   |
-| -1714986849   | Burnt Wolf Meat              | wolfmeat.burned          |
-| -1691991080   | Cooked Wolf Meat             | wolfmeat.cooked          |
-| 179448791     | Raw Wolf Meat                | wolfmeat.raw             |
-| 431617507     | Spoiled Wolf Meat            | wolfmeat.spoiled         |
-| 3655341       | Wood                         | wood                     |
-| 1501403549    | Wood Armor Helmet            | wood.armor.helmet        |
-| 1554697726    | Wood Chestplate              | wood.armor.jacket        |
-| -1883959124   | Wood Armor Pants             | wood.armor.pants         |
-| -481416622    | Work Bench Level 1           | workbench1               |
-| -481416621    | Work Bench Level 2           | workbench2               |
-| -481416620    | Work Bench Level 3           | workbench3               |
-| 1588977225    | Decorative Baubels           | xmas.decoration.baubels  |
-| 918540912     | Decorative Plastic Candy Canes| xmas.decoration.candycanes|
-| -471874147    | Decorative Gingerbread Men   | xmas.decoration.gingerbreadmen|
-| 205978836     | Tree Lights                  | xmas.decoration.lights   |
-| -1044400758   | Decorative Pinecones         | xmas.decoration.pinecone |
-| -2073307447   | Star Tree Topper             | xmas.decoration.star     |
-| 435230680     | Decorative Tinsel            | xmas.decoration.tinsel   |
-| 1526866730    | Festive Doorway Garland      | xmas.door.garland        |
-| -1151126752   | Christmas Lights             | xmas.lightstring         |
-| -1732316031   | Large Present                | xmas.present.large       |
-| -2130280721   | Medium Present               | xmas.present.medium      |
-| -1725510067   | Small Present                | xmas.present.small       |
-| -1926458555   | Christmas Tree               | xmas.tree                |
-| -460592212    | Festive Window Garland       | xmas.window.garland      |
-| 1540879296    | Christmas Door Wreath        | xmasdoorwreath           |
+| 588596902     | Handmade Shell               | ammo.handmade.shell      |
+| -2097376851   | Nailgun Nails                | ammo.nailgun.nails       |
+| 785728077     | Pistol Bullet                | ammo.pistol              |
+| 51984655      | Incendiary Pistol Bullet     | ammo.pistol.fire         |
+| -1691396643   | HV Pistol Ammo               | ammo.pistol.hv           |
+| -1211166256   | 5.56 Rifle Ammo              | ammo.rifle               |
+| -1321651331   | Explosive 5.56 Rifle Ammo    | ammo.rifle.explosive     |
+| 1712070256    | HV 5.56 Rifle Ammo           | ammo.rifle.hv            |
+| 605467368     | Incendiary 5.56 Rifle Ammo   | ammo.rifle.incendiary    |
+| -742865266    | Rocket                       | ammo.rocket.basic        |
+| 1638322904    | Incendiary Rocket            | ammo.rocket.fire         |
+| -1841918730   | High Velocity Rocket         | ammo.rocket.hv           |
+| -17123659     | Smoke Rocket WIP!!!!         | ammo.rocket.smoke        |
+| -1685290200   | 12 Gauge Buckshot            | ammo.shotgun             |
+| -1036635990   | 12 Gauge Incendiary Shell    | ammo.shotgun.fire        |
+| -727717969    | 12 Gauge Slug                | ammo.shotgun.slug        |
+| -1432674913   | Anti-Radiation Pills         | antiradpills             |
+| 1548091822    | Apple                        | apple                    |
+| 352130972     | Rotten Apple                 | apple.spoiled            |
+| 215754713     | Bone Arrow                   | arrow.bone               |
+| 14241751      | Fire Arrow                   | arrow.fire               |
+| -1023065463   | High Velocity Arrow          | arrow.hv                 |
+| -1234735557   | Wooden Arrow                 | arrow.wooden             |
+| 794356786     | Hide Boots                   | attire.hide.boots        |
+| 3222790       | Hide Halterneck              | attire.hide.helterneck   |
+| 1722154847    | Hide Pants                   | attire.hide.pants        |
+| 980333378     | Hide Poncho                  | attire.hide.poncho       |
+| -1773144852   | Hide Skirt                   | attire.hide.skirt        |
+| 196700171     | Hide Vest                    | attire.hide.vest         |
+| -324675402    | Reindeer Antlers             | attire.reindeer.headband |
+| -2139580305   | Auto Turret                  | autoturret               |
+| -262590403    | Salvaged Axe                 | axe.salvaged             |
+| -2072273936   | Bandage                      | bandage                  |
+| -1950721390   | Concrete Barricade           | barricade.concrete       |
+| 1655650836    | Metal Barricade              | barricade.metal          |
+| -559599960    | Sandbag Barricade            | barricade.sandbags       |
+| 15388698      | Stone Barricade              | barricade.stone          |
+| 866889860     | Wooden Barricade             | barricade.wood           |
+| 1382263453    | Barbed Wooden Barricade      | barricade.woodwire       |
+| 609049394     | Battery - Small              | battery.small            |
+| 1099314009    | Barbeque                     | bbq                      |
+| -1520560807   | Raw Bear Meat                | bearmeat                 |
+| -989755543    | Burnt Bear Meat              | bearmeat.burned          |
+| 1873897110    | Cooked Bear Meat             | bearmeat.cooked          |
+| -1273339005   | Bed                          | bed                      |
+| 1931713481    | Black Raspberries            | black.raspberries        |
+| 1553078977    | Bleach                       | bleach                   |
+| 1776460938    | Blood                        | blood                    |
+| -586342290    | Blueberries                  | blueberries              |
+| -996920608    | Blueprint                    | blueprintbase            |
+| 1746956556    | Bone Armor                   | bone.armor.suit          |
+| 1711033574    | Bone Club                    | bone.club                |
+| 1719978075    | Bone Fragments               | bone.fragments           |
+| -1000573653   | Frog Boots                   | boots.frog               |
+| 613961768     | Bota Bag                     | botabag                  |
+| 1443579727    | Hunting Bow                  | bow.hunting              |
+| 803222026     | Repair Bench                 | box.repair.bench         |
+| -180129657    | Wood Storage Box             | box.wooden               |
+| 833533164     | Large Wood Box               | box.wooden.large         |
+| 850280505     | Bucket Helmet                | bucket.helmet            |
+| 1424075905    | Water Bucket                 | bucket.water             |
+| 1525520776    | Building Plan                | building.planner         |
+| 1366282552    | Leather Gloves               | burlap.gloves            |
+| 1877339384    | Burlap Headwrap              | burlap.headwrap          |
+| 602741290     | Burlap Shirt                 | burlap.shirt             |
+| -761829530    | Burlap Shoes                 | burlap.shoes             |
+| 1992974553    | Burlap Trousers              | burlap.trousers          |
+| 1783512007    | Cactus Flesh                 | cactusflesh              |
+| 1946219319    | Camp Fire                    | campfire                 |
+| -700591459    | Can of Beans                 | can.beans                |
+| 1655979682    | Empty Can Of Beans           | can.beans.empty          |
+| -1941646328   | Can of Tuna                  | can.tuna                 |
+| -1557377697   | Empty Tuna Can               | can.tuna.empty           |
+| 1121925526    | Candy Cane                   | candycane                |
+| 1789825282    | Candy Cane Club              | candycaneclub            |
+| 634478325     | CCTV Camera                  | cctv.camera              |
+| 1142993169    | Ceiling Light                | ceilinglight             |
+| 1104520648    | Chainsaw                     | chainsaw                 |
+| 1534542921    | Chair                        | chair                    |
+| -1938052175   | Charcoal                     | charcoal                 |
+| 1973684065    | Burnt Chicken                | chicken.burned           |
+| -1848736516   | Cooked Chicken               | chicken.cooked           |
+| -1440987069   | Raw Chicken Breast           | chicken.raw              |
+| -751151717    | Spoiled Chicken              | chicken.spoiled          |
+| 363467698     | Chocolate Bar                | chocholate               |
+| -778875547    | Corn Clone                   | clone.corn               |
+| -886280491    | Hemp Clone                   | clone.hemp               |
+| 1898094925    | Pumpkin Plant Clone          | clone.pumpkin            |
+| -858312878    | Cloth                        | cloth                    |
+| 204391461     | Coal :(                      | coal                     |
+| -803263829    | Coffee Can Helmet            | coffeecan.helmet         |
+| 1367190888    | Corn                         | corn                     |
+| 1965232394    | Crossbow                     | crossbow                 |
+| -321733511    | Crude Oil                    | crude.oil                |
+| -97956382     | Tool Cupboard                | cupboard.tool            |
+| -1903165497   | Bone Helmet                  | deer.skull.mask          |
+| -78533081     | Burnt Deer Meat              | deermeat.burned          |
+| -1509851560   | Cooked Deer Meat             | deermeat.cooked          |
+| 1422530437    | Raw Deer Meat                | deermeat.raw             |
+| 296519935     | Diving Fins                  | diving.fins              |
+| -113413047    | Diving Mask                  | diving.mask              |
+| -2022172587   | Diving Tank                  | diving.tank              |
+| -1101924344   | Wetsuit                      | diving.wetsuit           |
+| 1409529282    | Door Closer                  | door.closer              |
+| 1390353317    | Sheet Metal Double Door      | door.double.hinged.metal |
+| 1221063409    | Armored Double Door          | door.double.hinged.toptier|
+| -1336109173   | Wood Double Door             | door.double.hinged.wood  |
+| -2067472972   | Sheet Metal Door             | door.hinged.metal        |
+| 1353298668    | Armored Door                 | door.hinged.toptier      |
+| 1729120840    | Wooden Door                  | door.hinged.wood         |
+| -1112793865   | Door Key                     | door.key                 |
+| -1519126340   | Drop Box                     | dropbox                  |
+| 1401987718    | Duct Tape                    | ducttape                 |
+| -1878475007   | Satchel Charge               | explosive.satchel        |
+| 1248356124    | Timed Explosive Charge       | explosive.timed          |
+| -592016202    | Explosives                   | explosives               |
+| 798638114     | m-facialhair01               | facialhair.style01       |
+| -1018587433   | Animal Fat                   | fat.animal               |
+| 649305914     | f-hairstyle-1                | female_hairstyle_01      |
+| 649305917     | f-hairstyle-2                | female_hairstyle_02      |
+| 649305916     | f-hairstyle-3                | female_hairstyle_03      |
+| 649305918     | f-hairstyle-5                | female_hairstyle_05      |
+| 274502203     | f-armpit01                   | femalearmpithair.style01 |
+| -1065444793   | f-eyebrow01                  | femaleeyebrow.style01    |
+| 16333305      | f-pubic01                    | femalepubichair.style01  |
+| -1535621066   | Stone Fireplace              | fireplace.stone          |
+| 1668129151    | Cooked Fish                  | fish.cooked              |
+| -542577259    | Minnows                      | fish.minnows             |
+| 989925924     | Raw Fish                     | fish.raw                 |
+| -1878764039   | Small Trout                  | fish.troutsmall          |
+| 1569882109    | Handmade Fishing Rod         | fishingrod.handmade      |
+| 559147458     | Survival Fish Trap           | fishtrap.small           |
+| -1215753368   | Flame Thrower                | flamethrower             |
+| 528668503     | Flame Turret                 | flameturret              |
+| 304481038     | Flare                        | flare                    |
+| -196667575    | Flashlight                   | flashlight.held          |
+| 936496778     | Floor grill                  | floor.grill              |
+| 1948067030    | Ladder Hatch                 | floor.ladder.hatch       |
+| 1413014235    | Fridge                       | fridge                   |
+| -2124352573   | Acoustic Guitar              | fun.guitar               |
+| -1999722522   | Furnace                      | furnace                  |
+| -1992717673   | Large Furnace                | furnace.large            |
+| -629028935    | Electric Fuse                | fuse                     |
+| -691113464    | High External Stone Gate     | gates.external.high.stone|
+| -335089230    | High External Wooden Gate    | gates.external.high.wood |
+| 479143914     | Gears                        | gears                    |
+| 999690781     | Geiger Counter               | geiger.counter           |
+| -1819763926   | Wind Turbine                 | generator.wind.scrap     |
+| -690276911    | Glowing Eyes                 | gloweyes                 |
+| -1899491405   | Glue                         | glue                     |
+| -746030907    | Granola Bar                  | granolabar               |
+| 1840822026    | Beancan Grenade              | grenade.beancan          |
+| 143803535     | F1 Grenade                   | grenade.f1               |
+| -265876753    | Gun Powder                   | gunpowder                |
+| 352499047     | Shotgun Trap                 | guntrap                  |
+| 200773292     | Hammer                       | hammer                   |
+| -1506397857   | Salvaged Hammer              | hammer.salvaged          |
+| 1675639563    | Beenie Hat                   | hat.beenie               |
+| -23994173     | Boonie Hat                   | hat.boonie               |
+| 1714496074    | Candle Hat                   | hat.candle               |
+| -1022661119   | Baseball Cap                 | hat.cap                  |
+| -1539025626   | Miners Hat                   | hat.miner                |
+| -1478212975   | Wolf Headdress               | hat.wolf                 |
+| -1252059217   | Hatchet                      | hatchet                  |
+| 1266491000    | Hazmat Suit                  | hazmatsuit               |
+| -253079493    | Scientist Suit               | hazmatsuit_scientist     |
+| -1958316066   | Scientist Suit               | hazmatsuit_scientist_peacekeeper|
+| 1181207482    | Heavy Plate Helmet           | heavy.plate.helmet       |
+| -1102429027   | Heavy Plate Jacket           | heavy.plate.jacket       |
+| -1778159885   | Heavy Plate Pants            | heavy.plate.pants        |
+| 1751045826    | Hoodie                       | hoodie                   |
+| 1917703890    | Burnt Horse Meat             | horsemeat.burned         |
+| -1162759543   | Cooked Horse Meat            | horsemeat.cooked         |
+| -1130350864   | Raw Horse Meat               | horsemeat.raw            |
+| -1982036270   | High Quality Metal Ore       | hq.metal.ore             |
+| -682687162    | Burnt Human Meat             | humanmeat.burned         |
+| 1536610005    | Cooked Human Meat            | humanmeat.cooked         |
+| -1709878924   | Raw Human Meat               | humanmeat.raw            |
+| 1272768630    | Spoiled Human Meat           | humanmeat.spoiled        |
+| -1780802565   | Salvaged Icepick             | icepick.salvaged         |
+| -1163532624   | Jacket                       | jacket                   |
+| -48090175     | Snow Jacket - Red            | jacket.snow              |
+| 1242482355    | Jack O Lantern Angry         | jackolantern.angry       |
+| -1824943010   | Jack O Lantern Happy         | jackolantern.happy       |
+| 286193827     | Pickles                      | jar.pickle               |
+| -484206264    | Blue Keycard                 | keycard_blue             |
+| 37122747      | Green Keycard                | keycard_green            |
+| -1880870149   | Red Keycard                  | keycard_red              |
+| 1814288539    | Bone Knife                   | knife.bone               |
+| -316250604    | Wooden Ladder                | ladder.wooden.wall       |
+| 1658229558    | Lantern                      | lantern                  |
+| 254522515     | Large Medkit                 | largemedkit              |
+| 1381010055    | Leather                      | leather                  |
+| -2069578888   | M249                         | lmg.m249                 |
+| 1159991980    | Code Lock                    | lock.code                |
+| -850982208    | Key Lock                     | lock.key                 |
+| -110921842    | Locker                       | locker                   |
+| -1469578201   | Longsword                    | longsword                |
+| -946369541    | Low Grade Fuel               | lowgradefuel             |
+| -1966748496   | Mace                         | mace                     |
+| -1137865085   | Machete                      | machete                  |
+| -586784898    | Mail Box                     | mailbox                  |
+| -163828118    | m-facialhair02               | male.facialhair.style02  |
+| -163828117    | m-facialhair03               | male.facialhair.style03  |
+| -163828112    | m-facialhair04               | male.facialhair.style04  |
+| 1070894649    | m-hairstyle-1                | male_hairstyle_01        |
+| 1070894648    | m-hairstyle-2                | male_hairstyle_02        |
+| 1070894647    | m-hairstyle-3                | male_hairstyle_03        |
+| 1070894646    | m-hairstyle-4                | male_hairstyle_04        |
+| 1070894645    | m-hairstyle-5                | male_hairstyle_05        |
+| 181590376     | m-armpit01                   | malearmpithair.style01   |
+| -874975042    | m-eyebrow01                  | maleeyebrow.style01      |
+| -1190096326   | m-pubic01                    | malepubichair.style01    |
+| 696029452     | Paper Map                    | map                      |
+| -2012470695   | Improvised Balaclava         | mask.balaclava           |
+| -702051347    | Bandana Mask                 | mask.bandana             |
+| 621915341     | Raw Pork                     | meat.boar                |
+| 1391703481    | Burnt Pork                   | meat.pork.burned         |
+| -242084766    | Cooked Pork                  | meat.pork.cooked         |
+| -194953424    | Metal Facemask               | metal.facemask           |
+| 69511070      | Metal Fragments              | metal.fragments          |
+| -4031221      | Metal Ore                    | metal.ore                |
+| 1110385766    | Metal Chest Plate            | metal.plate.torso        |
+| 317398316     | High Quality Metal           | metal.refined            |
+| 1882709339    | Metal Blade                  | metalblade               |
+| 95950017      | Metal Pipe                   | metalpipe                |
+| -1021495308   | Metal Spring                 | metalspring              |
+| -1130709577   | Pump Jack                    | mining.pumpjack          |
+| 1052926200    | Mining Quarry                | mining.quarry            |
+| -1962971928   | Mushroom                     | mushroom                 |
+| 1414245162    | Note                         | note                     |
+| 237239288     | Pants                        | pants                    |
+| -1695367501   | Shorts                       | pants.shorts             |
+| -1779183908   | Paper                        | paper                    |
+| -1302129395   | Pickaxe                      | pickaxe                  |
+| -75944661     | Eoka Pistol                  | pistol.eoka              |
+| -852563019    | M92 Pistol                   | pistol.m92               |
+| 1953903201    | Nailgun                      | pistol.nailgun           |
+| 1373971859    | Python Revolver              | pistol.python            |
+| 649912614     | Revolver                     | pistol.revolver          |
+| 818877484     | Semi-Automatic Pistol        | pistol.semiauto          |
+| 1581210395    | Large Planter Box            | planter.large            |
+| 1903654061    | Small Planter Box            | planter.small            |
+| -1651220691   | Pookie Bear                  | pookie.bear              |
+| -1673693549   | Empty Propane Tank           | propanetank              |
+| -567909622    | Pumpkin                      | pumpkin                  |
+| -1861522751   | Research Table               | research.table           |
+| -544317637    | Research Paper               | researchpaper            |
+| 1545779598    | Assault Rifle                | rifle.ak                 |
+| 1588298435    | Bolt Action Rifle            | rifle.bolt               |
+| -1812555177   | LR-300 Assault Rifle         | rifle.lr300              |
+| -904863145    | Semi-Automatic Rifle         | rifle.semiauto           |
+| 176787552     | Rifle Body                   | riflebody                |
+| 671063303     | Riot Helmet                  | riot.helmet              |
+| -2002277461   | Road Sign Jacket             | roadsign.jacket          |
+| 1850456855    | Road Sign Kilt               | roadsign.kilt            |
+| 1199391518    | Road Signs                   | roadsigns                |
+| 963906841     | Rock                         | rock                     |
+| 442886268     | Rocket Launcher              | rocket.launcher          |
+| 1414245522    | Rope                         | rope                     |
+| -1985799200   | Rug                          | rug                      |
+| -1104881824   | Rug Bear Skin                | rug.bear                 |
+| -1978999529   | Salvaged Cleaver             | salvaged.cleaver         |
+| 1326180354    | Salvaged Sword               | salvaged.sword           |
+| -575483084    | Santa Hat                    | santahat                 |
+| 177226991     | Scarecrow                    | scarecrow                |
+| -932201673    | Scrap                        | scrap                    |
+| 2087678962    | Search Light                 | searchlight              |
+| 998894949     | Corn Seed                    | seed.corn                |
+| -237809779    | Hemp Seed                    | seed.hemp                |
+| -1511285251   | Pumpkin Seed                 | seed.pumpkin             |
+| 573926264     | Semi Automatic Body          | semibody                 |
+| 1234880403    | Sewing Kit                   | sewingkit                |
+| -1994909036   | Sheet Metal                  | sheetmetal               |
+| 1950721418    | Salvaged Shelves             | shelves                  |
+| -2025184684   | Shirt                        | shirt.collared           |
+| 1608640313    | Tank Top                     | shirt.tanktop            |
+| -1549739227   | Boots                        | shoes.boots              |
+| -765183617    | Double Barrel Shotgun        | shotgun.double           |
+| 795371088     | Pump Shotgun                 | shotgun.pump             |
+| -41440462     | Spas-12 Shotgun              | shotgun.spas12           |
+| -1367281941   | Waterpipe Shotgun            | shotgun.waterpipe        |
+| -1199897169   | Metal horizontal embrasure   | shutter.metal.embrasure.a|
+| -1199897172   | Metal Vertical embrasure     | shutter.metal.embrasure.b|
+| -1023374709   | Wood Shutters                | shutter.wood.a           |
+| 1205607945    | Two Sided Hanging Sign       | sign.hanging             |
+| 23352662      | Large Banner Hanging         | sign.hanging.banner.large|
+| -1647846966   | Two Sided Ornate Hanging Sign| sign.hanging.ornate      |
+| -845557339    | Landscape Picture Frame      | sign.pictureframe.landscape|
+| -1370759135   | Portrait Picture Frame       | sign.pictureframe.portrait|
+| 121049755     | Tall Picture Frame           | sign.pictureframe.tall   |
+| -996185386    | XL Picture Frame             | sign.pictureframe.xl     |
+| 98508942      | XXL Picture Frame            | sign.pictureframe.xxl    |
+| 2070189026    | Large Banner on pole         | sign.pole.banner.large   |
+| 1521286012    | Double Sign Post             | sign.post.double         |
+| 1542290441    | Single Sign Post             | sign.post.single         |
+| -1832422579   | One Sided Town Sign Post     | sign.post.town           |
+| 826309791     | Two Sided Town Sign Post     | sign.post.town.roof      |
+| -143132326    | Huge Wooden Sign             | sign.wooden.huge         |
+| 1153652756    | Large Wooden Sign            | sign.wooden.large        |
+| -1819233322   | Wooden Sign                  | sign.wooden.medium       |
+| -1138208076   | Small Wooden Sign            | sign.wooden.small        |
+| 996293980     | Human Skull                  | skull.human              |
+| 2048317869    | Wolf Skull                   | skull.wolf               |
+| 553887414     | Skull Fire Pit               | skull_fire_pit           |
+| -1754948969   | Sleeping Bag                 | sleepingbag              |
+| -1293296287   | Small Oil Refinery           | small.oil.refinery       |
+| -1039528932   | Small Water Bottle           | smallwaterbottle         |
+| 1796682209    | Custom SMG                   | smg.2                    |
+| 1318558775    | MP5A4                        | smg.mp5                  |
+| -1758372725   | Thompson                     | smg.thompson             |
+| 1230323789    | SMG Body                     | smgbody                  |
+| -363689972    | Snowball                     | snowball                 |
+| 1629293099    | Snowman                      | snowman                  |
+| 1602646136    | Stone Spear                  | spear.stone              |
+| 1540934679    | Wooden Spear                 | spear.wooden             |
+| -92759291     | Wooden Floor Spikes          | spikes.floor             |
+| -1100422738   | Spinning wheel               | spinner.wheel            |
+| -369760990    | Small Stash                  | stash.small              |
+| 642482233     | Sticks                       | sticks                   |
+| -465682601    | SUPER Stocking               | stocking.large           |
+| 1668858301    | Small Stocking               | stocking.small           |
+| 171931394     | Stone Pickaxe                | stone.pickaxe            |
+| -1583967946   | Stone Hatchet                | stonehatchet             |
+| -2099697608   | Stones                       | stones                   |
+| -1581843485   | Sulfur                       | sulfur                   |
+| -1157596551   | Sulfur Ore                   | sulfur.ore               |
+| 1397052267    | Supply Signal                | supply.signal            |
+| 1975934948    | Survey Charge                | surveycharge             |
+| 1079279582    | Medical Syringe              | syringe.medical          |
+| 593465182     | Table                        | table                    |
+| -1736356576   | Reactive Target              | target.reactive          |
+| 1523195708    | Targeting Computer           | targeting.computer       |
+| 2019042823    | Tarp                         | tarp                     |
+| 73681876      | Tech Trash                   | techparts                |
+| -1262185308   | Binoculars                   | tool.binoculars          |
+| -1316706473   | Camera                       | tool.camera              |
+| 795236088     | Torch                        | torch                    |
+| -582782051    | Snap Trap                    | trap.bear                |
+| -1663759755   | Land Mine                    | trap.landmine            |
+| 223891266     | T-Shirt                      | tshirt                   |
+| 935692442     | Longsleeve T-Shirt           | tshirt.long              |
+| -1478445584   | Tuna Can Lamp                | tunalight                |
+| 198438816     | Vending Machine              | vending.machine          |
+| 99588025      | High External Wooden Wall    | wall.external.high       |
+| -967648160    | High External Stone Wall     | wall.external.high.stone |
+| -1429456799   | Prison Cell Wall             | wall.frame.cell          |
+| -956706906    | Prison Cell Gate             | wall.frame.cell.gate     |
+| -1117626326   | Chainlink Fence              | wall.frame.fence         |
+| 1451568081    | Chainlink Fence Gate         | wall.frame.fence.gate    |
+| -148794216    | Garage Door                  | wall.frame.garagedoor    |
+| 1516985844    | Netting                      | wall.frame.netting       |
+| -796583652    | Shop Front                   | wall.frame.shopfront     |
+| -148229307    | Metal Shop Front             | wall.frame.shopfront.metal|
+| -819720157    | Metal Window Bars            | wall.window.bars.metal   |
+| 671706427     | Reinforced Window Bars       | wall.window.bars.toptier |
+| -1183726687   | Wooden Window Bars           | wall.window.bars.wood    |
+| -1614955425   | Reinforced Glass Window      | wall.window.glass.reinforced|
+| -1779180711   | Water                        | water                    |
+| -1863559151   | Water Barrel                 | water.barrel             |
+| -1100168350   | Large Water Catcher          | water.catcher.large      |
+| -132247350    | Small Water Catcher          | water.catcher.small      |
+| 2114754781    | Water Purifier               | water.purifier           |
+| -277057363    | Salt Water                   | water.salt               |
+| -119235651    | Water Jug                    | waterjug                 |
+| 952603248     | Weapon flashlight            | weapon.mod.flashlight    |
+| 442289265     | Holosight                    | weapon.mod.holosight     |
+| -132516482    | Weapon Lasersight            | weapon.mod.lasersight    |
+| -1405508498   | Muzzle Boost                 | weapon.mod.muzzleboost   |
+| 1478091698    | Muzzle Brake                 | weapon.mod.muzzlebrake   |
+| -1850571427   | Silencer                     | weapon.mod.silencer      |
+| -855748505    | Simple Handmade Sight        | weapon.mod.simplesight   |
+| 567235583     | 4x Zoom Scope                | weapon.mod.small.scope   |
+| 1827479659    | Burnt Wolf Meat              | wolfmeat.burned          |
+| 813023040     | Cooked Wolf Meat             | wolfmeat.cooked          |
+| -395377963    | Raw Wolf Meat                | wolfmeat.raw             |
+| -1167031859   | Spoiled Wolf Meat            | wolfmeat.spoiled         |
+| -151838493    | Wood                         | wood                     |
+| -2094954543   | Wood Armor Helmet            | wood.armor.helmet        |
+| 418081930     | Wood Chestplate              | wood.armor.jacket        |
+| 832133926     | Wood Armor Pants             | wood.armor.pants         |
+| 1524187186    | Work Bench Level 1           | workbench1               |
+| -41896755     | Work Bench Level 2           | workbench2               |
+| -1607980696   | Work Bench Level 3           | workbench3               |
+| -1667224349   | Decorative Baubels           | xmas.decoration.baubels  |
+| -209869746    | Decorative Plastic Candy Canes| xmas.decoration.candycanes|
+| 1686524871    | Decorative Gingerbread Men   | xmas.decoration.gingerbreadmen|
+| 1723747470    | Tree Lights                  | xmas.decoration.lights   |
+| -129230242    | Decorative Pinecones         | xmas.decoration.pinecone |
+| -1331212963   | Star Tree Topper             | xmas.decoration.star     |
+| 2106561762    | Decorative Tinsel            | xmas.decoration.tinsel   |
+| 674734128     | Festive Doorway Garland      | xmas.door.garland        |
+| 1058261682    | Christmas Lights             | xmas.lightstring         |
+| -1622660759   | Large Present                | xmas.present.large       |
+| 756517185     | Medium Present               | xmas.present.medium      |
+| -722241321    | Small Present                | xmas.present.small       |
+| 794443127     | Christmas Tree               | xmas.tree                |
+| -1379835144   | Festive Window Garland       | xmas.window.garland      |
+| 2009734114    | Christmas Door Wreath        | xmasdoorwreath           |

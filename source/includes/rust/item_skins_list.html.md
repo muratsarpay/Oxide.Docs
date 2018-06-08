@@ -18,12 +18,14 @@ title: Item Skins
 | 1228341388   | Apocalypse Door                   |
 | 1206145767   | Aristocratic Armored Door         |
 | 1114020299   | Armored Concrete                  |
+| 1402412287   | Armored Mason Door                |
 | 930478674    | Armored Vault Door                |
 | 948938468    | Bunker Door                       |
 | 869475498    | Clockwork Portal                  |
 | 1176460121   | Cobalt Graffiti Door              |
 | 804286931    | Corroded Bronze Door              |
 | 911652483    | Green Armored Container Door      |
+| 1376526519   | Hellfire Portal                   |
 | 801889927    | High Voltage                      |
 | 801937986    | Incarceration Armored Door        |
 | 933057923    | Keep Out Armored Door             |
@@ -47,6 +49,7 @@ title: Item Skins
 | 1259716979   | Anubis Ak47                       |
 | 809190373    | Battle-Scarred AKS47              |
 | 1112904406   | Betty Lou AK47                    |
+| 1385673487   | Brass Lion                        |
 | 924020531    | Cartagena AK47                    |
 | 1349512142   | Caution AK47                      |
 | 937864743    | Checkpoint AK47                   |
@@ -85,7 +88,9 @@ title: Item Skins
 | 654502185    | Rustpunk AK47                     |
 | 934891737    | Sandstorm AK47                    |
 | 1175238674   | Santa Muerte                      |
+| 1372566409   | Scorpion AK47                     |
 | 1277707212   | Scrapper AK47                     |
+| 1396630285   | Smolder                           |
 | 1076214414   | Soul Taker AK47                   |
 | 1230963555   | Talon AK47                        |
 | 10138        | Tempered AK47                     |
@@ -256,6 +261,7 @@ title: Item Skins
 | 926478499    | Desert Outlaw Burlap Shirt        |
 | 1294811936   | It is Wednesday, my dudes         |
 | 1354670586   | Leopard Skin Shirt                |
+| 1380044819   | Pirate Shirt                      |
 | 10136        | Pirate Vest & Shirt               |
 | 1145786859   | Rioter's Jacket                   |
 | 1323654151   | Road Raider Shirt                 |
@@ -275,6 +281,7 @@ title: Item Skins
 | 1127409880   | Blacksmith Pants                  |
 | 921250017    | Desert Outlaw Burlap Pants        |
 | 1354675665   | Leopard Skin Pants                |
+| 1380047706   | Pirate Pants                      |
 | 809968188    | Recycled Tarp Pants               |
 | 1145780081   | Rioter's Pants                    |
 | 1323664071   | Road Raider Pants                 |
@@ -304,6 +311,7 @@ title: Item Skins
 | 955675586    | Epidemic Helmet                   |
 | 1349166206   | Full Metal Helmet                 |
 | 1129809202   | Funhouse Helmet                   |
+| 1380023142   | Heavenly Legion Helmet            |
 | 970583835    | Junkyard Samurai Helmet           |
 | 843676357    | Lizard Skull                      |
 | 1269589560   | Loot Leader Helmet                |
@@ -321,6 +329,7 @@ title: Item Skins
 | 814098474    | Spare Parts                       |
 | 919595880    | Sunrise Helmet                    |
 | 1130589746   | Utilizer Helmet                   |
+| 1400824309   | Vandal Graffiti Helmet            |
 | 809816871    | Warboy Helmet                     |
 | 854460770    | Welding Helmet                    |
 
@@ -339,12 +348,14 @@ title: Item Skins
 | 915855989    | Ancient Artifact Crossbow         |
 | 874268567    | Chrome Crossbow                   |
 | 1242702498   | Dead Man Crossbow                 |
+| 1390284445   | Deep Water Crossbow               |
 | 883141682    | Doomwing Crossbow                 |
 | 818070371    | Engraved Crossbow                 |
 | 1349337546   | Gold Spirit Crossbow              |
 | 1181976746   | Gurkha Crossbow                   |
 | 1291686117   | Hawk Crossbow                     |
 | 809964230    | HazardCross                       |
+| 1365706569   | Huntsman Crossbow                 |
 | 1127389810   | Lone Wulf Crossbow                |
 | 1115959202   | Mad Crossbow                      |
 | 1184318659   | Marauder                          |
@@ -355,6 +366,7 @@ title: Item Skins
 | 1328219905   | Ronin                             |
 | 856029421    | Tank Crossbow                     |
 | 1367933148   | Tribal Crossbow                   |
+| 1383105648   | Victoria Crossbow                 |
 
 ## Custom SMG (smg.2)
 | Skin Id      | Skin name                         |
@@ -384,6 +396,7 @@ title: Item Skins
 | 865019380    | Bespoke DBS                       |
 | 1119662164   | Caution DBS                       |
 | 1213074188   | Double Trouble DBS                |
+| 1378519774   | Geartooth DBS                     |
 | 948113632    | Grandfather DBS                   |
 | 854987948    | Heat Double Shotgun               |
 | 1260964187   | Hellion DBS                       |
@@ -437,11 +450,13 @@ title: Item Skins
 | 1305332196   | Brutal Furnace                    |
 | 1230680321   | Cannibal Furnace                  |
 | 1230975843   | Christmas Furnace                 |
+| 1384844042   | Dragon Furnace                    |
 | 1230272984   | Furnace of the Shaman             |
 | 1260305347   | Hydraulic Furnace                 |
 | 1277616284   | Iron Forge                        |
 | 1335260783   | Junkyard Furnace                  |
 | 1354629493   | Medieval Fresco Furnace           |
+| 1377346304   | Metalwork Flux Furnace            |
 | 1320779999   | Military Furnace                  |
 | 1354714819   | Miner's Furnace                   |
 | 1277183788   | Mosaic Furnace                    |
@@ -452,18 +467,21 @@ title: Item Skins
 | 1230539924   | Snowboy                           |
 | 1349367380   | Soul Burner                       |
 | 1282172459   | Totem Furnace                     |
+| 1367939983   | Treasure Furnace                  |
 | 1261530424   | Urban Furnace                     |
 | 1231071505   | Victorian Furnace                 |
 
 ## Garage Door (wall.frame.garagedoor)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
+| 1398568170   | Bandit Garage Door                |
 | 1334974046   | Cargo Truck Garage Door           |
 | 1209586977   | Checkpoint Door                   |
 | 1180981036   | Chop Shop Garage Door             |
 | 1186351868   | Cobalt Space Door                 |
 | 1180968592   | Defense Garage Door               |
 | 1238292260   | Factory Rolling Door              |
+| 1380090862   | GNH-315                           |
 | 1309406283   | Reactor Room 3 of 10              |
 | 1183127702   | Rolling Exit Door                 |
 | 1358030533   | Sailor's Garage Door              |
@@ -511,6 +529,7 @@ title: Item Skins
 | 910196839    | Red Chopper                       |
 | 953186726    | Refined Hatchet                   |
 | 912857899    | Replacement Blade Hatchet         |
+| 1379766114   | Road Hatchet                      |
 | 1242774466   | Scrapper Hatchet                  |
 | 1291775183   | Shinobi Hatchet                   |
 | 1220880032   | Siege Breaker                     |
@@ -581,6 +600,7 @@ title: Item Skins
 | 14178        | Blue Hoodie                       |
 | 1373714814   | Brony Hoodie                      |
 | 1209453497   | Charitable Rust 2017 Hoodie       |
+| 1371314541   | Checkpoint Hoodie                 |
 | 1305321596   | Chekist's Hoodie                  |
 | 1150818496   | Conquistador Hoodie               |
 | 10133        | Cuda87 Hoodie                     |
@@ -680,6 +700,7 @@ title: Item Skins
 | 810383121    | Christmas Holiday LWB             |
 | 10122        | Christmas Storage                 |
 | 854002617    | Components Storage                |
+| 1394363785   | Cursed Pirate Treasure Chest      |
 | 576569265    | D.O.A Trunk                       |
 | 1199632980   | Danger Box                        |
 | 1116497962   | Dead Pirates Chest                |
@@ -714,6 +735,7 @@ title: Item Skins
 | 1169231428   | Salvaged Cargo Box                |
 | 1269932286   | Scrapper Storage Chest            |
 | 978112601    | Trash Box                         |
+| 1382429236   | Trophy Pirate Chest               |
 | 890915277    | Urban Large Wood Storage          |
 | 1119263507   | Vaccine box                       |
 | 854718942    | Weapons Box                       |
@@ -800,6 +822,7 @@ title: Item Skins
 | 1094522474   | Metalhunter Chest Plate           |
 | 819160334    | Oil Barrel Chest Plate            |
 | 797410767    | Plate Carrier - Black             |
+| 1388861988   | Precious Antiques Chestplate      |
 | 798736321    | Press Vest                        |
 | 799657859    | Racing Stripes Chest Plate        |
 | 934627208    | Retro Car Parts Chestplate        |
@@ -846,6 +869,7 @@ title: Item Skins
 | 924019464    | Metalmute Facemask                |
 | 900645045    | Mosaic Mask                       |
 | 943128194    | Overlord Mask                     |
+| 1388857962   | Precious Antiques Facemask        |
 | 803894027    | Punishment Mask                   |
 | 903628875    | Red Dead Jester                   |
 | 792905158    | Rusted Smile                      |
@@ -897,6 +921,7 @@ title: Item Skins
 | 10001        | Blue Jeans                        |
 | 10049        | Blue Track Pants                  |
 | 909888619    | Caravanner Pants                  |
+| 1371313777   | Checkpoint Pants                  |
 | 1305364315   | Chekist's Pants                   |
 | 1150816693   | Conquistador Pants                |
 | 889714798    | Desert Conqueror Pants            |
@@ -943,6 +968,7 @@ title: Item Skins
 | 949859819    | Ornate Pick Axe                   |
 | 1150813747   | Prospector's Pickaxe              |
 | 832799172    | Rescue Pick Axe                   |
+| 1377987815   | Secret Zone Pick Axe              |
 | 1298797381   | Shinobi Pick Axe                  |
 | 1362736707   | Spec Ops Pickaxe                  |
 | 863455081    | Tarnished Sun Pick Axe            |
@@ -987,6 +1013,8 @@ title: Item Skins
 | 1214609010   | Phantom                           |
 | 1328632407   | Punk Python                       |
 | 1269667577   | Relict Python                     |
+| 1356665596   | Slaughter                         |
+| 1377347733   | Smoking Python                    |
 | 1276136280   | Steam Python                      |
 | 1223105431   | Trausi's Python                   |
 | 1235690536   | Warstory Python                   |
@@ -1014,6 +1042,7 @@ title: Item Skins
 | 809865395    | Handmade Revolver                 |
 | 809822151    | Hot-tempered Revolver             |
 | 933056389    | Junkyard Revolver                 |
+| 1349358875   | Necromancer Revolver              |
 | 10114        | Outback revolver                  |
 | 809897611    | Outlaw Revolver                   |
 | 1346870567   | Party Pooper                      |
@@ -1062,6 +1091,7 @@ title: Item Skins
 | 947950933    | Freebooter Vest                   |
 | 1349163491   | Full Metal Vest                   |
 | 784581113    | Hazard Protection Vest            |
+| 1380025789   | Heavenly Legion Vest              |
 | 1159597292   | Heavy Alloy Vest                  |
 | 879861502    | Junker's Vest                     |
 | 934744263    | Junkyard Samurai Vest             |
@@ -1080,6 +1110,7 @@ title: Item Skins
 | 1130406273   | Tank Crew Roadsign Vest           |
 | 1234957719   | The Last Viking Vest              |
 | 1130599258   | Utilizer Vest                     |
+| 1400828574   | Vandal Graffiti Vest              |
 | 932778217    | Wasteland Legionnaire             |
 
 ## Road Sign Kilt (roadsign.kilt)
@@ -1101,6 +1132,7 @@ title: Item Skins
 | 947949717    | Freebooter Pants                  |
 | 1349158079   | Full Metal Kilt                   |
 | 784577443    | Hazard Cover Pants                |
+| 1380028657   | Heavenly Legion Kilt              |
 | 1159599284   | Heavy Alloy Pants                 |
 | 879861153    | Junker's Kilt                     |
 | 934742835    | Junkyard Samurai Pants            |
@@ -1120,6 +1152,7 @@ title: Item Skins
 | 828173323    | Spiked Metal Kilt                 |
 | 1130405286   | Tank Crew Roadsign Pants          |
 | 1130610212   | Utilizer Pants                    |
+| 1400837602   | Vandal Graffiti Pants             |
 
 ## Rock (rock)
 | Skin Id      | Skin name                         |
@@ -1129,6 +1162,7 @@ title: Item Skins
 | 864277659    | Fresh Brain                       |
 | 858285362    | Frozen Turkey                     |
 | 804791902    | Gold Rock                         |
+| 1378500484   | Gravel Rock                       |
 | 843429299    | Hot Potato                        |
 | 971411353    | Junkyard Rock                     |
 | 807372963    | Meteorite                         |
@@ -1263,9 +1297,11 @@ title: Item Skins
 | 839302795    | Bandito SAR                       |
 | 1168002579   | Blood Dragon Rifle                |
 | 1359059068   | Buzzard SAR                       |
+| 1385736095   | Caution SAR                       |
 | 900921542    | Fire Starter SAR                  |
 | 922119054    | Forgotten Warfare SAR             |
 | 1291766032   | Freedom SAR                       |
+| 1395475969   | Geartooth SAR                     |
 | 959955205    | Glory SAR                         |
 | 1099992405   | Gunsmith SAR                      |
 | 840023839    | Hazard Semi Auto Rifle            |
@@ -1334,7 +1370,9 @@ title: Item Skins
 | 859864870    | Prison Door                       |
 | 961909886    | Quarantine Door                   |
 | 1342459239   | Railway Door                      |
+| 1390896848   | Rainbow Door                      |
 | 835119969    | Recycled Garage Door              |
+| 1383063240   | Red Skull Door                    |
 | 934924536    | Roadsign Door                     |
 | 1117884427   | Salvaged APC Door                 |
 | 962391797    | Salvation Door                    |
@@ -1344,6 +1382,8 @@ title: Item Skins
 | 883741993    | Shipping Container Door           |
 | 1362729705   | Steel Pirate Door                 |
 | 1321264697   | Submarine Door                    |
+| 1401769919   | Test Room Door                    |
+| 1380022034   | Trophy Pirate Door                |
 | 914869833    | Truck Door                        |
 | 1328566466   | Urban Night Door                  |
 
@@ -1378,9 +1418,11 @@ title: Item Skins
 | 10119        | Christmas Bag                     |
 | 809186722    | Christmas Holiday Bag             |
 | 1152883867   | Cobalt Survival Bag               |
+| 1396600730   | Crime Bag                         |
 | 1140342335   | Fisher Sleeping Bag               |
 | 1137518723   | Freefolk Bedroll                  |
 | 539536110    | Freshly Dug Grave                 |
+| 1402402700   | Golden Drake Sleeping Bag         |
 | 10107        | Horror Bag                        |
 | 795398514    | Jungle Camo Sleeping Bag          |
 | 1283724154   | Muertos Sleeping Bag              |
@@ -1419,6 +1461,7 @@ title: Item Skins
 | 1356232241   | Dark Rite Stone Hatchet           |
 | 947950887    | Fossil Tooth Hatchet              |
 | 1058431260   | Geode Hatchet                     |
+| 1395467841   | Gravel Stone Hatchet              |
 | 797445687    | Ice Tooth                         |
 | 854688691    | Large Fruit Pit Hatchet           |
 | 1290344811   | Megalodon Totem Hatchet           |
@@ -1439,6 +1482,7 @@ title: Item Skins
 | 1269582427   | Artisan's Stone Pickaxe           |
 | 1127557296   | Aztec Jade Pick Axe               |
 | 840380436    | Bloody Tooth Pickaxe              |
+| 1395460858   | Gravel Stone Pickaxe              |
 | 886904592    | Jawbreaker                        |
 | 1290539482   | Megalodon Totem Pickaxe           |
 | 1306179593   | Stone Killer                      |
@@ -1543,6 +1587,8 @@ title: Item Skins
 ## Wooden Door (door.hinged.wood)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
+| 1386052491   | Alchemist Door                    |
+| 1402178300   | Artisan Wooden Door               |
 | 1108316628   | Barricaded Door                   |
 | 1100873539   | Black Decorative Wood Door        |
 | 838700836    | Bleached Ebony Door               |
