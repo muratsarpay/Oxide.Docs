@@ -4,6 +4,32 @@ title: Player Hooks
 
 # Player Hooks
 
+## CanAffordUpgrade
+
+``` csharp
+bool CanAffordUpgrade(BasePlayer player, BuildingBlock block, BuildingGrade.Enum grade)
+{
+    Puts("CanAffordUpgrade works!");
+    return true;
+}
+```
+
+ * Called when the resources for an upgrade are checked
+ * Returning true or false overrides default behavior
+
+## CanAssignBed
+
+``` csharp
+object CanAssignBed(SleepingBag bag, BasePlayer player, ulong targetPlayerId)
+{
+    Puts("CanAssignBed works!");
+    return null;
+}
+```
+
+ * Called when a player attempts to assign a bed or sleeping bag to another player
+ * Returning a non-null value overrides default behavior
+
 ## CanAttack
 
 ``` csharp
@@ -43,6 +69,19 @@ bool CanBeWounded(BasePlayer player, HitInfo info)
  * Called when any damage is attempted on player
  * Returning true or false overrides default behavior
 
+## CanBuild
+
+``` csharp
+object CanBuild(Planner planner, Construction prefab, Construction.Target target)
+{
+    Puts("CanBuild works!");
+    return null;
+}
+```
+
+ * Called when the player tries to build something
+ * Returning a non-null value overrides default behavior
+
 ## CanBypassQueue
 
 ``` csharp
@@ -55,6 +94,32 @@ bool CanBypassQueue(Network.Connection connection)
 
  * Called before the player is added to the connection queue
  * Returning true will bypass the queue, returning nothing will by default queue the player
+
+## CanChangeCode
+
+``` csharp
+object CanChangeCode(CodeLock codeLock, BasePlayer player, string newCode, bool isGuestCode)
+{
+    Puts("CanChangeCode works!");
+    return null;
+}
+```
+
+ * Called when a player tries to change the code on a codelock
+ * Returning a non-null value overrides default behavior
+
+## CanChangeGrade
+
+``` csharp
+bool CanChangeGrade(BasePlayer player, BuildingBlock block, BuildingGrade.Enum grade)
+{
+    Puts("CanChangeGrade works!");
+    return true;
+}
+```
+
+ * Called when a player tries to change a building grade
+ * Returning true or false overrides default behavior
 
 ## CanCraft
 
@@ -83,17 +148,17 @@ bool CanClientLogin(Network.Connection connection)
  * Returning a string will use the string as the error message
  * Returning true allows the connection, returning nothing will by default allow the connection, returning anything else will reject it with an error message
 
-## CanDropActiveItem
+## CanDemolish
 
 ``` csharp
-bool CanDropActiveItem(BasePlayer player)
+bool CanDemolish(BasePlayer player, BuildingBlock block, BuildingGrade.Enum grade)
 {
-    Puts("CanDropActiveItem works!");
+    Puts("CanDemolish works!");
     return true;
 }
 ```
 
- * Called when the player attempts drop their active held item
+ * Called when a player tries to demolish a building block
  * Returning true or false overrides default behavior
 
 ## CanDismountEntity
@@ -108,6 +173,19 @@ object CanDismountEntity(BasePlayer player, BaseMountable entity)
 
  * Called when the player attempts to dismount an entity
  * Returning a non-null value overrides default behavior
+
+## CanDropActiveItem
+
+``` csharp
+bool CanDropActiveItem(BasePlayer player)
+{
+    Puts("CanDropActiveItem works!");
+    return true;
+}
+```
+
+ * Called when the player attempts drop their active held item
+ * Returning true or false overrides default behavior
 
 ## CanEquipItem
 
@@ -148,6 +226,32 @@ object CanHackCrate(BasePlayer player, HackableLockedCrate crate)
  * Called when the player attempts to hack a locked crate from the CH47 (Chinook)
  * Returning a non-null value overrides default behavior
 
+## CanHideStash
+
+``` csharp
+object CanHideStash(StashContainer stash, BasePlayer player)
+{
+    Puts("CanHideStash works!");
+    return null;
+}
+```
+
+ * Called when a player tries to hide a stash
+ * Returning a non-null value overrides default behavior
+
+## CanLock
+
+``` csharp
+object CanLock(BaseLock baseLock, BasePlayer player)
+{
+    Puts("CanLock works!");
+    return null;
+}
+```
+
+ * Called when the player tries to lock a keylock or codelock
+ * Returning a non-null value overrides default behavior
+
 ## CanLootPlayer (BasePlayer)
 
 ``` csharp
@@ -172,7 +276,7 @@ object CanLootEntity(BasePlayer player, DroppedItemContainer container)
 ```
 
  * Called when the player starts looting a DroppedItemContainer entity
-* Returning a non-null value overrides default behavior
+ * Returning a non-null value overrides default behavior
 
 ## CanLootEntity (LootableCorpse)
 
@@ -185,7 +289,7 @@ object CanLootEntity(BasePlayer player, LootableCorpse corpse)
 ```
 
  * Called when the player starts looting a LootableCorpse entity
-* Returning a non-null value overrides default behavior
+ * Returning a non-null value overrides default behavior
 
 ## CanLootEntity (ResourceContainer)
 
@@ -198,7 +302,7 @@ object CanLootEntity(BasePlayer player, ResourceContainer container)
 ```
 
  * Called when the player starts looting a ResourceContainer entity
-* Returning a non-null value overrides default behavior
+ * Returning a non-null value overrides default behavior
 
 ## CanLootEntity (StorageContainer)
 
@@ -211,7 +315,7 @@ object CanLootEntity(BasePlayer player, StorageContainer container)
 ```
 
  * Called when the player starts looting a StorageContainer entity
-* Returning a non-null value overrides default behavior
+ * Returning a non-null value overrides default behavior
 
 ## CanMountEntity
 
@@ -226,18 +330,18 @@ object CanMountEntity(BasePlayer player, BaseMountable entity)
  * Called when the player attempts to mount an entity
  * Returning a non-null value overrides default behavior
 
-## CanUseUI
+## CanPickupLock
 
 ``` csharp
-object CanUseUI(BasePlayer player, string json)
+bool CanPickupLock(BasePlayer player, BaseLock baseLock)
 {
-    Puts("CanUseUI works!");
-    return null;
+    Puts("CanPickupLock works!");
+    return true;
 }
 ```
 
- * Called when the player attempts to use a custom UI
- * Returning a non-null value overrides default behavior
+ * Called when a player attempts to pickup a lock
+ * Returning true or false overrides default behavior
 
 ## CanRenameBed
 
@@ -263,6 +367,58 @@ object CanResearchItem(BasePlayer player, Item targetItem){
  * Called when the player attempts to research an item
  * Returning a non-null value overrides default behavior
 
+## CanSeeStash
+
+``` csharp
+object CanSeeStash(BasePlayer player, StashContainer stash)
+{
+    Puts("CanSeeStash works!");
+    return null;
+}
+```
+
+ * Called when a player is looking at a hidden stash
+ * Returning a non-null value overrides default behavior
+
+## CanSetBedPublic
+
+``` csharp
+object CanSetBedPublic(BasePlayer player, SleepingBag bed)
+{
+    Puts("CanSetBedPublic works!");
+    return null;
+}
+```
+
+ * Called when a player tries to set a bed public
+ * Returning a non-null value overrides default behavior
+
+## CanUnlock
+
+``` csharp
+object CanUnlock(BasePlayer player, BaseLock baseLock)
+{
+    Puts("CanUnlock works!");
+    return null;
+}
+```
+
+ * Called when the player tries to unlock a keylock or codelock
+ * Returning a non-null value overrides default behavior
+
+## CanUseLockedEntity
+
+``` csharp
+bool CanUseLockedEntity(BasePlayer player, BaseLock baseLock)
+{
+    Puts("CanUseLockedEntity works!");
+    return true;
+}
+```
+
+ * Called when the player tries to use an entity that is locked
+ * Returning true or false overrides default behavior
+
 ## CanUseMailbox
 
 ``` csharp
@@ -275,6 +431,19 @@ bool CanUseMailbox(BasePlayer player, Mailbox mailbox)
 
  * Called when the player tries to use a mailbox
  * Returning true or false overrides default behavior
+
+## CanUseUI
+
+``` csharp
+object CanUseUI(BasePlayer player, string json)
+{
+    Puts("CanUseUI works!");
+    return null;
+}
+```
+
+ * Called when the player attempts to use a custom UI
+ * Returning a non-null value overrides default behavior
 
 ## CanWearItem
 
