@@ -229,7 +229,7 @@ object CanHackCrate(BasePlayer player, HackableLockedCrate crate)
 ## CanHideStash
 
 ``` csharp
-object CanHideStash(StashContainer stash, BasePlayer player)
+object CanHideStash(BasePlayer player, StashContainer stash)
 {
     Puts("CanHideStash works!");
     return null;
