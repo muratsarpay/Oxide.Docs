@@ -188,6 +188,7 @@ title: Item List
 | -1780802565   | Salvaged Icepick             | icepick.salvaged         |
 | -1163532624   | Jacket                       | jacket                   |
 | -48090175     | Snow Jacket - Red            | jacket.snow              |
+| 1488979457    | Jackhammer                   | jackhammer               |
 | 1242482355    | Jack O Lantern Angry         | jackolantern.angry       |
 | -1824943010   | Jack O Lantern Happy         | jackolantern.happy       |
 | 286193827     | Pickles                      | jar.pickle               |
@@ -364,6 +365,7 @@ title: Item List
 | 671706427     | Reinforced Window Bars       | wall.window.bars.toptier |
 | -1183726687   | Wooden Window Bars           | wall.window.bars.wood    |
 | -1614955425   | Reinforced Glass Window      | wall.window.glass.reinforced|
+| -463122489    | Watch Tower                  | watchtower.wood          |
 | -1779180711   | Water                        | water                    |
 | -1863559151   | Water Barrel                 | water.barrel             |
 | -1100168350   | Large Water Catcher          | water.catcher.large      |
