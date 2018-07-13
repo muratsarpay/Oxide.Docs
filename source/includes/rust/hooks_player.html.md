@@ -20,7 +20,7 @@ bool CanAffordUpgrade(BasePlayer player, BuildingBlock block, BuildingGrade.Enum
 ## CanAssignBed
 
 ``` csharp
-object CanAssignBed(SleepingBag bag, BasePlayer player, ulong targetPlayerId)
+object CanAssignBed(BasePlayer player, SleepingBag bag, ulong targetPlayerId)
 {
     Puts("CanAssignBed works!");
     return null;
