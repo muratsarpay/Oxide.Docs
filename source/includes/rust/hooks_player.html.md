@@ -330,6 +330,19 @@ object CanMountEntity(BasePlayer player, BaseMountable entity)
  * Called when the player attempts to mount an entity
  * Returning a non-null value overrides default behavior
 
+## CanPickupEntity
+
+``` csharp
+bool CanPickupEntity(BasePlayer player, BaseCombatEntity entity)
+{
+    Puts("CanPickupEntity works!");
+    return true;
+}
+```
+
+ * Called when a player attempts to pickup a deployed entity (BearTrap, DecorDeployable, Door, ReactiveTarget, SleepingBag, SpinnerWheel)
+ * Returning true or false overrides default behavior
+
 ## CanPickupLock
 
 ``` csharp
