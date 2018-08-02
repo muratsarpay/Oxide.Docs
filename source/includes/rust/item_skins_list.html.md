@@ -68,6 +68,7 @@ title: Item Skins
 | 10135        | Digital Camo AK47                 |
 | 920472848    | Doombringer AK47                  |
 | 928950425    | Epidemic AK47                     |
+| 1448221547   | Etherya AK47                      |
 | 939180121    | Farseer AK47                      |
 | 940035827    | Fate Destroyer                    |
 | 903882218    | Frost Wolf                        |
@@ -77,6 +78,7 @@ title: Item Skins
 | 1364985829   | Green Dragon AK47                 |
 | 925720043    | Jaws AK47                         |
 | 1272989639   | King of the Jungle AK47           |
+| 1434027951   | Last Phoenix                      |
 | 908297014    | Lonewolf AK47 - Blue              |
 | 1213092632   | Mandrill                          |
 | 1428980348   | Marrakesh                         |
@@ -212,6 +214,8 @@ title: Item Skins
 | 1406796292   | Badboy Boots                      |
 | 10023        | Black Boots                       |
 | 10088        | Bloody Boots                      |
+| 1441308562   | Brony Boots                       |
+| 1432967312   | Cajun Boots                       |
 | 899942107    | Caravanner Boots                  |
 | 838205144    | Combat Boots                      |
 | 919261524    | Explorer Boots                    |
@@ -310,6 +314,7 @@ title: Item Skins
 | 848645884    | Apocalypse Helmet                 |
 | 914060966    | Army Armored Helmet               |
 | 1342122459   | Caution Helmet                    |
+| 1445131741   | Chaos Helmet                      |
 | 1121458604   | Cobalt Armor Helmet               |
 | 1251411840   | Defender Helmet                   |
 | 938020581    | Desert Patrol Helmet              |
@@ -325,6 +330,7 @@ title: Item Skins
 | 1154453278   | Mad Helmet                        |
 | 1174375607   | Metalhunter Can Helmet            |
 | 891592450    | Nordic Beast Helmet               |
+| 1441850738   | Peacemaker Helmet                 |
 | 1104118217   | Plywood Helmet                    |
 | 948491992    | Roadsign Warrior Helmet           |
 | 806212029    | Rusty Coffee Can Helmet           |
@@ -338,6 +344,7 @@ title: Item Skins
 | 919595880    | Sunrise Helmet                    |
 | 1130589746   | Utilizer Helmet                   |
 | 1400824309   | Vandal Graffiti Helmet            |
+| 1442169133   | Viking Helmet                     |
 | 809816871    | Warboy Helmet                     |
 | 854460770    | Welding Helmet                    |
 
@@ -404,6 +411,7 @@ title: Item Skins
 |--------------|-----------------------------------|
 | 916790605    | Aircraft Parts DBS                |
 | 865019380    | Bespoke DBS                       |
+| 1448142776   | Blunderbuss                       |
 | 1119662164   | Caution DBS                       |
 | 1213074188   | Double Trouble DBS                |
 | 1378519774   | Geartooth DBS                     |
@@ -471,6 +479,7 @@ title: Item Skins
 | 1427551950   | Iron Calamity                     |
 | 1277616284   | Iron Forge                        |
 | 1335260783   | Junkyard Furnace                  |
+| 1421455358   | Mad Iron Furnace                  |
 | 1354629493   | Medieval Fresco Furnace           |
 | 1377346304   | Metalwork Flux Furnace            |
 | 1320779999   | Military Furnace                  |
@@ -491,13 +500,16 @@ title: Item Skins
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
 | 1398568170   | Bandit Garage Door                |
+| 1415167317   | Brutal Jaws Garage Door           |
 | 1334974046   | Cargo Truck Garage Door           |
 | 1209586977   | Checkpoint Door                   |
 | 1180981036   | Chop Shop Garage Door             |
 | 1186351868   | Cobalt Space Door                 |
+| 1415079530   | Cursed Pirate Garage Door         |
 | 1180968592   | Defense Garage Door               |
 | 1238292260   | Factory Rolling Door              |
 | 1380090862   | GNH-315                           |
+| 1461027316   | Monster Garage Door               |
 | 1309406283   | Reactor Room 3 of 10              |
 | 1183127702   | Rolling Exit Door                 |
 | 1358030533   | Sailor's Garage Door              |
@@ -509,6 +521,7 @@ title: Item Skins
 |--------------|-----------------------------------|
 | 1249500235   | Aztec Jade Hammer                 |
 | 938806184    | Builders Guild Hammer             |
+| 1457914371   | Calamity Hammer                   |
 | 1128710439   | Dead Hammer                       |
 | 1208606722   | Frost Hammer                      |
 | 1116103194   | God Of Builders Hammer            |
@@ -541,9 +554,11 @@ title: Item Skins
 | 962959509    | Modern Lumberjack Hatchet         |
 | 967413298    | Notorious Hatchet                 |
 | 944497252    | Ornate Axe                        |
+| 1435214632   | Pharon Hatchet                    |
 | 1076337199   | Polynesian War Axe                |
 | 1150815053   | Prospector's Hatchet              |
 | 1108554409   | Raider Hatchet                    |
+| 1448232793   | Reaper Hatchet                    |
 | 910196839    | Red Chopper                       |
 | 953186726    | Refined Hatchet                   |
 | 912857899    | Replacement Blade Hatchet         |
@@ -619,6 +634,7 @@ title: Item Skins
 | 10052        | Bloody Hoodie                     |
 | 14178        | Blue Hoodie                       |
 | 1373714814   | Brony Hoodie                      |
+| 1432964453   | Cajun Hoodie                      |
 | 1209453497   | Charitable Rust 2017 Hoodie       |
 | 1371314541   | Checkpoint Hoodie                 |
 | 1305321596   | Chekist's Hoodie                  |
@@ -634,6 +650,7 @@ title: Item Skins
 | 895065994    | Leather Strapped Hoodie           |
 | 914621940    | Looter's Hoodie                   |
 | 1368417352   | Lumberjack Hoodie                 |
+| 1448343881   | Mad Rider Hoodie                  |
 | 1106582025   | Metalhunter Hoodie                |
 | 939604165    | Nordic Beast Hoodie               |
 | 1328751626   | Northern Forester Hoodie          |
@@ -724,6 +741,7 @@ title: Item Skins
 | 576569265    | D.O.A Trunk                       |
 | 1199632980   | Danger Box                        |
 | 1116497962   | Dead Pirates Chest                |
+| 1443958473   | Defender Box                      |
 | 1251062707   | Eisensheet Box                    |
 | 798455489    | Explosives Box                    |
 | 942678679    | Fire Hose Box                     |
@@ -748,12 +766,14 @@ title: Item Skins
 | 1356773002   | Ordnance Box                      |
 | 932160919    | Padded Armor Trunk                |
 | 1282838099   | Pandora's box                     |
+| 1456233168   | Pharaoh Mummy Box                 |
 | 1353721544   | Ragnarok Trunk                    |
 | 1342462175   | Railway Box                       |
 | 878850459    | Recyclables Box                   |
 | 881249489    | Royal Wooden Box                  |
 | 1169231428   | Salvaged Cargo Box                |
 | 1269932286   | Scrapper Storage Chest            |
+| 1447962258   | Toxic Box                         |
 | 978112601    | Trash Box                         |
 | 1382429236   | Trophy Pirate Chest               |
 | 890915277    | Urban Large Wood Storage          |
@@ -770,12 +790,14 @@ title: Item Skins
 | 816473273    | Black Alligator                   |
 | 10128        | Boxer's Bandages                  |
 | 883476299    | Bruiser Gloves                    |
+| 1432966221   | Cajun Gloves                      |
 | 904961862    | Caravanner Gloves                 |
 | 661317919    | Duelist Gloves                    |
 | 1296614997   | Firefighter Gloves                |
 | 938394833    | Junklord Gloves                   |
 | 1394040487   | Junkyard King Gloves              |
 | 1368419860   | Lumberjack Gloves                 |
+| 1448347837   | Mad Rider Gloves                  |
 | 921030333    | Merciless Gloves                  |
 | 1106600389   | Metalhunter Gloves                |
 | 610098458    | Motorcycle Gloves                 |
@@ -946,6 +968,8 @@ title: Item Skins
 | 1406835139   | Badboy Pants                      |
 | 10001        | Blue Jeans                        |
 | 10049        | Blue Track Pants                  |
+| 1441311938   | Brony Pants                       |
+| 1432965178   | Cajun Pants                       |
 | 909888619    | Caravanner Pants                  |
 | 1371313777   | Checkpoint Pants                  |
 | 1305364315   | Chekist's Pants                   |
@@ -956,6 +980,7 @@ title: Item Skins
 | 10019        | Forest Camo Pants                 |
 | 969289969    | Huntsman Pants                    |
 | 1368418893   | Lumberjack Pants                  |
+| 1448346336   | Mad Rider Pants                   |
 | 1106596145   | Metalhunter Pants                 |
 | 939586076    | Nordic Beast Pants                |
 | 1328753424   | Northern Forester Pants           |
@@ -992,7 +1017,9 @@ title: Item Skins
 | 1407877776   | Hazard Pick Axe                   |
 | 1083591199   | Leather Pick Axe                  |
 | 859743520    | Military Pick Axe                 |
+| 1444912645   | Montezuma Pick Axe                |
 | 949859819    | Ornate Pick Axe                   |
+| 1435220253   | Pharon Pick Axe                   |
 | 1150813747   | Prospector's Pickaxe              |
 | 832799172    | Rescue Pick Axe                   |
 | 1377987815   | Secret Zone Pick Axe              |
@@ -1029,17 +1056,20 @@ title: Item Skins
 | 1305704747   | Cold Hunter Python                |
 | 1228154190   | Dark Silver Python                |
 | 1215390635   | Devourer                          |
+| 1455062983   | Duelist's Python                  |
 | 1217395562   | Engraved Python                   |
 | 1373936691   | Hellraiser Python                 |
 | 1265214612   | Holy Python                       |
 | 1296687971   | Hot Battle Steel                  |
 | 1342464644   | Industrial Python                 |
 | 1335582211   | Ivory Python                      |
+| 1435364672   | Metalhead Python                  |
 | 1418647979   | Morocco Python                    |
 | 1290876678   | Necromancer Python                |
 | 1277518447   | Outlaw Python                     |
 | 1364964220   | Pearl Python                      |
 | 1214609010   | Phantom                           |
+| 1435858834   | Pink Death Python                 |
 | 1328632407   | Punk Python                       |
 | 1269667577   | Relict Python                     |
 | 1356665596   | Slaughter                         |
@@ -1079,9 +1109,11 @@ title: Item Skins
 | 1235996786   | Phantom Revolver                  |
 | 1428863076   | Pink Death Revolver               |
 | 950956238    | Pink Grunge                       |
+| 1435664860   | Radioactive Revolver              |
 | 1161550991   | Rebel Revolver                    |
 | 1309517474   | Rebel Revolver                    |
 | 1408242038   | Regal Revolver                    |
+| 1447877728   | Sailor's Revolver                 |
 | 1099177489   | Shamanism Revolver                |
 | 973871108    | Sting Revolver                    |
 | 1217455695   | Tribal Revolver                   |
@@ -1111,6 +1143,7 @@ title: Item Skins
 | 865659101    | Army Sign Vest                    |
 | 801873550    | British Sign Vest                 |
 | 1342125487   | Caution Vest                      |
+| 1442341176   | Chaos Armored Vest                |
 | 818611894    | Chopshop Body Armor               |
 | 1121456497   | Cobalt Armor Vest                 |
 | 1102966153   | Deathwing Vest                    |
@@ -1132,6 +1165,7 @@ title: Item Skins
 | 1119760089   | Metalhunter Roadsign Vest         |
 | 892402754    | Nordic Beast Vest                 |
 | 953124938    | Patchwork Cuirass                 |
+| 1441844877   | Peacemaker Vest                   |
 | 1098029034   | Plywood Vest                      |
 | 950173158    | Raider Roadsign Vest              |
 | 1151219812   | Saboteur's Vest                   |
@@ -1144,6 +1178,7 @@ title: Item Skins
 | 1234957719   | The Last Viking Vest              |
 | 1130599258   | Utilizer Vest                     |
 | 1400828574   | Vandal Graffiti Vest              |
+| 1442162947   | Viking Armor Vest                 |
 | 932778217    | Wasteland Legionnaire             |
 
 ## Road Sign Kilt (roadsign.kilt)
@@ -1153,6 +1188,7 @@ title: Item Skins
 | 865679836    | Army Sign Kilt                    |
 | 801837047    | British Sign Pants                |
 | 1342123902   | Caution Pants                     |
+| 1442346890   | Chaos Armored Pants               |
 | 818612271    | Chopshop Kilt                     |
 | 1121447954   | Cobalt Armor Pants                |
 | 1102986622   | Deathwing Pants                   |
@@ -1175,6 +1211,7 @@ title: Item Skins
 | 794291485    | Military Camo Roadsign Kilt       |
 | 892414125    | Nordic Beast Kilt                 |
 | 953123363    | Patchwork War Kilt                |
+| 1441848470   | Peacemaker Pants                  |
 | 1103687152   | Plywood Kilt                      |
 | 950176525    | Raider Roadsign Pants             |
 | 1151205503   | Saboteur's Pants                  |
@@ -1187,10 +1224,12 @@ title: Item Skins
 | 1130405286   | Tank Crew Roadsign Pants          |
 | 1130610212   | Utilizer Pants                    |
 | 1400837602   | Vandal Graffiti Pants             |
+| 1442167045   | Viking Armor Pants                |
 
 ## Rock (rock)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
+| 1435229543   | Adventurer's Rock                 |
 | 1209361016   | Ancient World Rock                |
 | 1084822722   | Barb Wire Rock                    |
 | 1368454662   | Best Friend                       |
@@ -1206,6 +1245,7 @@ title: Item Skins
 | 834287924    | Ripe Watermelon                   |
 | 824904841    | Shard of True Ice                 |
 | 1126754320   | Sharptooth                        |
+| 1458528823   | Swamp Rock                        |
 
 ## Rocket Launcher (rocket.launcher)
 | Skin Id      | Skin name                         |
@@ -1251,7 +1291,9 @@ title: Item Skins
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
 | 950134503    | Fallen Knight                     |
+| 1455468520   | Grid Strike                       |
 | 828885909    | Metal Roses Short Sword           |
+| 1442148142   | Oblivion Sword                    |
 | 893871715    | Roadsign Sword                    |
 | 969725237    | Rusty Blade                       |
 | 1366123054   | Saw Sword                         |
@@ -1314,6 +1356,7 @@ title: Item Skins
 | 868298519    | Poseidon Semi Auto Pistol         |
 | 10081        | Reaper Note Pistol                |
 | 10073        | Red Shine Pistol                  |
+| 1446715780   | Reptile SAP                       |
 | 908722214    | Retro Car Parts SAP               |
 | 827533196    | Salt Shaker SAP                   |
 | 975102848    | Silent Sting SAP                  |
@@ -1382,12 +1425,14 @@ title: Item Skins
 | 1412241247   | Corinthian Door                   |
 | 1124738987   | Dead Room Door                    |
 | 1175547229   | Death Crypt Door                  |
+| 1443957299   | Defender Door                     |
 | 827190175    | Doomsday Door                     |
 | 948930384    | Door to Death                     |
 | 1227441654   | Dragon Relic Door                 |
 | 1213613030   | Eisensheet Door                   |
 | 1260208160   | Engineer's Door                   |
 | 915684869    | Fire Truck Door                   |
+| 1438420454   | Flower Power Door                 |
 | 1281626747   | Fretwork Door                     |
 | 942658960    | Grey Fire Door                    |
 | 1294718018   | Grid Door                         |
@@ -1404,6 +1449,7 @@ title: Item Skins
 | 832957536    | Metal Shutter Door                |
 | 959898495    | Metalshop Scrap Door              |
 | 922419554    | Military Vehicle Door             |
+| 1435254318   | Night Sky Door                    |
 | 1083653685   | Polar Station Door                |
 | 859864870    | Prison Door                       |
 | 1412186246   | Pug Tower Door                    |
@@ -1422,6 +1468,7 @@ title: Item Skins
 | 1362729705   | Steel Pirate Door                 |
 | 1321264697   | Submarine Door                    |
 | 1401769919   | Test Room Door                    |
+| 1447958101   | Toxic Door                        |
 | 1380022034   | Trophy Pirate Door                |
 | 914869833    | Truck Door                        |
 | 1328566466   | Urban Night Door                  |
@@ -1493,6 +1540,7 @@ title: Item Skins
 ## Stone Hatchet (stonehatchet)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
+| 1438048408   | Abstraction Stone Hatchet         |
 | 1092741003   | Ancient Gods Stone Hatchet        |
 | 1269563695   | Artisan's Stone Hatchet           |
 | 1117098080   | Aztec Jade Hachet                 |
@@ -1646,6 +1694,7 @@ title: Item Skins
 | 1131650209   | Lone Wolf Door                    |
 | 804854812    | Old Heavy Wooden Door             |
 | 1132144523   | Ornate Wooden Door                |
+| 1415496136   | Pirate Wooden Door                |
 | 847902281    | Porthole Door                     |
 | 1100886818   | Red Decorative Wood Door          |
 | 923763807    | Riveted Wooden Door               |

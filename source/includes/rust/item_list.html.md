@@ -61,6 +61,7 @@ title: Item List
 | 1719978075    | Bone Fragments               | bone.fragments           |
 | -1000573653   | Frog Boots                   | boots.frog               |
 | 613961768     | Bota Bag                     | botabag                  |
+| 884424049     | Compound Bow                 | bow.compound             |
 | 1443579727    | Hunting Bow                  | bow.hunting              |
 | 803222026     | Repair Bench                 | box.repair.bench         |
 | -180129657    | Wood Storage Box             | box.wooden               |
