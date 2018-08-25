@@ -1,4 +1,4 @@
-# Oxide Docs [![Build Status](https://travis-ci.org/OxideMod/Docs.svg?branch=master)](https://travis-ci.org/OxideMod/Docs)
+# Oxide Docs [![Build Status](https://travis-ci.org/OxideMod/Oxide.Docs.svg?branch=master)](https://travis-ci.org/OxideMod/Oxide.Docs)
 
 ## Contributing
 
@@ -13,9 +13,9 @@ You're going to need:
 
  1. Fork this repository on GitHub.
  2. Clone *your forked repository* (not our original one)
-    `git clone https://github.com/YOURUSERNAME/Docs.git`
+    `git clone https://github.com/YOURUSERNAME/Oxide.Docs.git`
  3. Open up the Ruby command console.
- 3. Type `cd Docs` in the Ruby console.
+ 3. Type `cd Oxide.Docs` in the Ruby console.
  4. Install all dependencies: `bundle install`
  5. Start the test server: `bundle exec middleman server`
 
